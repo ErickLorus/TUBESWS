@@ -1,0 +1,471 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:foaf="http://xmlns.com/foaf/0.1/"
+         xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+         xmlns:owl="http://www.w3.org/2002/07/owl#"
+         xmlns:dc="http://purl.org/dc/terms/"
+         xmlns:music="https://example.org/schema/music">
+
+<music:song rdf:about="https://genius.com/The-lumineers-ho-hey-lyrics">
+    <music:number>26</music:number>
+    <music:image>https://t2.genius.com/unsafe/288x292/https%3A%2F%2Fimages.genius.com%2F225d6cb0fef34cc080a51fefb2384c8b.599x607x1.jpg</music:image>
+    <rdfs:label>Ho Hey</rdfs:label>
+    <music:duration>
+    2:41
+    </music:duration>
+    <music:artist>The Lumineers</music:artist>
+    <music:year>2012-04-03</music:year>
+    <music:genre>Pop Music</music:genre>
+    <music:producer>Ryan Hadlock</music:producer>
+    <music:summary>
+        Ranked at #36 in United States
+        Wesley Schultz is trying to do the right things the right way, whether it’s in a relationship or in life in general. Although he does say, “it”, which might means he’s trying to do what he’s going through right.    </music:summary>
+    <foaf:homepage rdf:resource="https://www.youtube.com/embed/zvCBSSwgtg4"/>
+</music:song>
+
+<music:song rdf:about="https://genius.com/Ajr-the-good-part-lyrics">
+    <music:number>25</music:number>
+    <music:image>https://t2.genius.com/unsafe/263x263/https%3A%2F%2Fimages.genius.com%2Fcd0d9a3dc297f083c981b8517d212dae.1000x1000x1.jpg</music:image>
+    <rdfs:label>The Good Part</rdfs:label>
+    <music:duration>
+    3:48
+    </music:duration>
+    <music:artist>AJR</music:artist>
+    <music:year>2017-06-09</music:year>
+    <music:genre>Indie </music:genre>
+    <music:producer>Ryan Met</music:producer>
+    <music:summary>
+        Featuring a recurring sample of Johann Sebastian Bach’s “Suite No. 3 in D major, BWV 1068”, “The Good Part” focuses on the desire to skip to the best part of one’s life.
+
+        In an interview with Zach Sang in August 2017, the band revealed that this song was the only track on the album that wasn’t written in their living room:
+        
+        That was done in the back of Ingrid Michaelson’s tour bus because we were opening for her when we first started writing.    
+    </music:summary>
+    <foaf:homepage rdf:resource="https://www.youtube.com/embed/Il5Lk3vyhlg"/>
+</music:song>
+
+<music:song rdf:about="http://dbpedia.org:8891/resource/Love_Grows_(Where_My_Rosemary_Goes)">
+    <music:number>24</music:number>
+    <music:image>https://t2.genius.com/unsafe/288x284/https%3A%2F%2Fimages.genius.com%2Fe804d53327bde58390dd7eae881dec44.800x790x1.png</music:image>
+    <rdfs:label>Love Grows</rdfs:label>
+    <music:duration>
+    2:48
+    </music:duration>
+    <music:artist>Edison Lighthouse</music:artist>
+    <music:year>1970-01-08</music:year>
+    <music:genre>Rock Music</music:genre>
+    <music:producer>Tony Macaulay</music:producer>
+    <music:summary>
+        "Love Grows (Where My Rosemary Goes)" is the debut single by Edison Lighthouse. The song reached the number one spot on the UK Singles Chart on the week ending 31 January 1970, where it remained for a total of five weeks.It also became the first number one single of the 1970s (not counting Rolf Harris's "Two Little Boys" which was a holdover from 1969).    </music:summary>
+    <foaf:homepage rdf:resource="https://www.youtube.com/embed/TfY8hR5frEQ"/>
+</music:song>
+
+<music:song rdf:about="https://dbpedia.org/resource/Over_the_Rainbow">
+    <music:number>23</music:number>
+    <music:image>https://t2.genius.com/unsafe/288x288/https%3A%2F%2Fimages.genius.com%2F5d8646a0b9d0154b446db6b05fc023c5.320x320x1.jpg</music:image>
+    <rdfs:label>Over the Rainbow</rdfs:label>
+    <music:duration>
+    3:31
+    </music:duration>
+    <music:artist>Judy Garland</music:artist>
+    <music:year>1938-09-01</music:year>
+    <music:genre>Classic Country</music:genre>
+    <music:producer>Bradley Flanagan and Marilee Bradford</music:producer>
+    <music:summary>
+        Also known as “Somewhere Over the Rainbow”, the 1939 classic and Academy Award winning song from “Wizard of Oz”.
+        In 2001, the National Endowment of the Arts and the Recording Industry Association of America named the song the 20th century top song (Bing Crosby’s “White Christmas” came second).
+    </music:summary>
+    <foaf:homepage rdf:resource="https://www.youtube.com/embed/PSZxmZmBfnU"/>
+</music:song>
+
+<music:song rdf:about="https://genius.com/Keane-somewhere-only-we-know-lyrics">
+    <music:number>22</music:number>
+    <music:image>https://t2.genius.com/unsafe/288x288/https%3A%2F%2Fimages.genius.com%2Fdc239192a6e87f4bc863cb33d40271bb.1000x1000x1.jpg</music:image>
+    <rdfs:label>Somewhere only we know</rdfs:label>
+    <music:duration>
+    3:59
+    </music:duration>
+    <music:artist>Keane</music:artist>
+    <music:year>2004-02-16</music:year>
+    <music:genre>Pop Music</music:genre>
+    <music:producer>Andy Green, Keane and James Sanger</music:producer>
+    <music:summary>
+        “Somewhere Only We Know” is a song by English alternative rock band Keane, officially released as the lead single from their debut album Hopes and Fears.
+
+        Keane lead vocalist Tim Rice-Oxley revealed in 2004 of the meaning of the song:
+
+        It’s about being able to draw strength from a place or experience you’ve shared with someone. I think it’s an idea a lot of people can relate to. 
+    </music:summary>
+    <foaf:homepage rdf:resource="https://www.youtube.com/embed/Oextk-If8HQ"/>
+</music:song>
+
+<music:song rdf:about="https://dbpedia.org/resource/Gone,_Gone,_Gone">
+    <music:number>21</music:number>
+    <music:image>https://t2.genius.com/unsafe/288x288/https%3A%2F%2Fimages.genius.com%2Fb9ec569565cc6299816e0d5ed2165c8f.1000x1000x1.png</music:image>
+    <rdfs:label>Gone, Gone, Gone</rdfs:label>
+    <music:duration>
+    4:13
+    </music:duration>
+    <music:artist>Philip Philips</music:artist>
+    <music:year>2012-11-19</music:year>
+    <music:genre>Pop Music</music:genre>
+    <music:producer>Greg Wattenberg</music:producer>
+    <music:summary>
+        The second single will be ‘Gone, Gone, Gone’”. It’s a good little love song. Todd Clark and Derek Fuhrmann, they wrote [it] and brought it to me and I thought it was a beautiful song. The more I’ve played it live, the more I’ve made it more my own and people seem to really connect with it and really enjoy it so I’m excited to see how that song’s going to do.    </music:summary>
+    <foaf:homepage rdf:resource="https://www.youtube.com/embed/oozQ4yV__Vw"/>
+</music:song>
+
+<music:song rdf:about="https://genius.com/Hindia-evaluasi-lyrics">
+    <music:number>20</music:number>
+    <music:image>https://t2.genius.com/unsafe/146x146/https%3A%2F%2Fimages.genius.com%2F72671899c818722a9a6b631eedcffb1b.1000x1000x1.jpg</music:image>
+    <rdfs:label>Evaluasi</rdfs:label>
+    <music:duration>
+    3:17
+    </music:duration>
+    <music:artist>Hindia</music:artist>
+    <music:year>2019-3-22</music:year>
+    <music:genre>Indonesian Pop</music:genre>
+    <music:producer>Hindia, Petra Sihombing dan Wisnu Ikhsantama W.</music:producer>
+    <music:summary>
+        “I initially wrote this song for myself. I know how hard it is to sleep when you have depression and/or other mental health issues. Then along the process it evolved into something that I write for my S.O. And then it evolved again into what it is today: something for everyone.”
+    </music:summary>
+    <foaf:homepage rdf:resource="https://www.youtube.com/embed/k4V3Mo61fJM"/>
+</music:song>
+
+<music:song rdf:about="https://genius.com/Ari-lasso-hampa-lyrics">
+    <music:number>19</music:number>
+    <music:image>https://t2.genius.com/unsafe/146x146/https%3A%2F%2Fimages.genius.com%2F313d19d67b0e86dccaaad3597feb1cae.450x450x1.jpg</music:image>
+    <rdfs:label>Hampa</rdfs:label>
+    <music:duration>
+    4:59
+    </music:duration>
+    <music:artist>Ari Lasso</music:artist>
+    <music:year>2008-5-25</music:year>
+    <music:genre>Indonesian Pop</music:genre>
+    <music:producer>Ari Lasso</music:producer>
+    <music:summary>
+        Lagu Hampa juga menceritakan tentang seseorang yang merasa hampa setelah ditinggal oleh kekasihnya. Dia juga selalu merindukan kekasihnya di mana pun dia berada. Lagu ini dirilis pada tahun 2003, meskipun merupakan lagu lama akan tetapi lagu tersebut tetap menjadi favorit banyak orang hingga kini.
+    </music:summary>
+    <foaf:homepage rdf:resource="https://www.youtube.com/embed/x_2XgLON5d8"/>
+</music:song>
+
+<music:song rdf:about="https://genius.com/Anji-dia-lyrics">
+    <music:number>18</music:number>
+    <music:image>https://t2.genius.com/unsafe/146x146/https%3A%2F%2Fimages.genius.com%2F0b66681bf9251d3276311a89528f5754.1000x1000x1.jpg</music:image>
+    <rdfs:label>Dia</rdfs:label>
+    <music:duration>
+    4:48
+    </music:duration>
+    <music:artist>Anji</music:artist>
+    <music:year>2016-04-12</music:year>
+    <music:genre>Indonesian Pop</music:genre>
+    <music:producer>Fredy Harahap</music:producer>
+    <music:summary>
+        Lagu "Dia" yang dinyanyikan oleh Anji ini bercerita tentang seseorang yang bisa membuat tersenyum. Bagi Anji, Dia bisa siapa saja, mulai dari orang tua, teman, sahabat, hingga pasangan. Bahkan "Dia" bisa merujuk pada sesuatu seperti halnya benda.
+    </music:summary>
+    <foaf:homepage rdf:resource="https://www.youtube.com/embed/0kk4sV0qSpQ"/>
+</music:song>
+
+<music:song rdf:about="https://genius.com/Andra-and-the-backbone-sempurna-lyrics">
+    <music:number>17</music:number>
+    <music:image>https://t2.genius.com/unsafe/146x146/https%3A%2F%2Fimages.genius.com%2Faabf4b7d67713bed262648b9665bcc39.1000x1000x1.jpg</music:image>
+    <rdfs:label>Sempurna</rdfs:label>
+    <music:duration>
+    3:11
+    </music:duration>
+    <music:artist>Andra and the backbone</music:artist>
+    <music:year>January 2007</music:year>
+    <music:genre>Indonesian Pop</music:genre>
+    <music:producer>Stevie Morley Item, Dedy Lisan and Andra Junaidi</music:producer>
+    <music:summary>
+        "Sempurna" adalah lagu dari grup musik Indonesia Andra and the BackBone yang dirilis di album swanama perdana mereka pada tahun 2007. Lagu ini diciptakan oleh gitaris grup musik tersebut Andra Ramadhan dan Stevi Item. Lagu ini kemudian diaransemen ulang oleh Gita Gutawa untuk mengisi soundtrack Ost. Love.
+    </music:summary>
+    <foaf:homepage rdf:resource="https://www.youtube.com/embed/jStNaVCW838"/>
+</music:song>
+
+<music:song rdf:about="https://genius.com/Andmesh-hanya-rindu-lyrics">
+    <music:number>16</music:number>
+    <music:image>https://t2.genius.com/unsafe/146x146/https%3A%2F%2Fimages.genius.com%2F9401e481eea505b65a3b0b624ebd8b7b.1000x1000x1.jpg</music:image>
+    <rdfs:label>Hanya Rindu</rdfs:label>
+    <music:duration>
+    4:12
+    </music:duration>
+    <music:artist>Andmesh</music:artist>
+    <music:year>2019-04-26</music:year>
+    <music:genre>Indonesian Pop</music:genre>
+    <music:producer>Keke Kananta</music:producer>
+    <music:summary>
+        Lagu Hanya Rindu diciptakan oleh Andmesh untuk mengenang ibunya yang telah tiada. Lirik lagu Hanya Rindu memiliki makna yang sangat mendalam di mana menceritakan tentang kerinduan seorang anak kepada ibunya yang telah berpulang.
+    </music:summary>
+    <foaf:homepage rdf:resource="https://www.youtube.com/embed/CJC5PY5erzI"/>
+</music:song>
+
+<music:song rdf:about="https://genius.com/Fourtwnty-zona-nyaman-lyrics">
+    <music:number>15</music:number>
+    <music:image>https://t2.genius.com/unsafe/146x146/https%3A%2F%2Fimages.genius.com%2F25146c74085107d9a7bb454b963d07b9.600x600x1.png</music:image>
+    <rdfs:label>Zona Nyaman</rdfs:label>
+    <music:duration>
+    4:13
+    </music:duration>
+    <music:artist>Fourtwnty</music:artist>
+    <music:year>2017-04-20</music:year>
+    <music:genre>Indonesian Pop</music:genre>
+    <music:producer>Fourtwnty</music:producer>
+    <music:summary>
+        Lagu ini menceritakan tentang seseorang yang setiap pagi bekerja dengan penuh ambisi, dan yang menjadi ambisinya adalah materi. Walaupun terkadang, kita juga bosan dengan rutinitas yang setiap hari kita lakukan dan mempunyai titik jenuhnya tersendiri.
+    </music:summary>
+    <foaf:homepage rdf:resource="https://www.youtube.com/embed/OnfYLBNvrPw"/>
+</music:song>
+
+<music:song rdf:about="https://genius.com/Nidji-laskar-pelangi-lyrics">
+    <music:number>14</music:number>
+    <music:image>https://t2.genius.com/unsafe/146x146/https%3A%2F%2Fimages.genius.com%2F67f048404279743188805a1fe23722d5.268x268x1.jpg</music:image>
+    <rdfs:label>Laskar Pelangi</rdfs:label>
+    <music:duration>
+    5:07
+    </music:duration>
+    <music:artist>Nidji</music:artist>
+    <music:year>2008-09-23</music:year>
+    <music:genre>Indonesian Pop</music:genre>
+    <music:producer>Mochamad Noerwana</music:producer>
+    <music:summary>
+        lirik lagu “Laskar Pelangi” adalah ajakan kepada kita untuk tetap bersyukur dalam menjalani hidup. Kisah tentang semangat menempuh atau meraih impian di tengah kemiskinan serta kehidupan yang tidak adil yang akan membuat kita paham untuk lebih bersyukur dalam kehidupan ini.
+    </music:summary>
+    <foaf:homepage rdf:resource="https://www.youtube.com/embed/fO1iJqBdXrc"/>
+</music:song>
+
+<music:song rdf:about="https://genius.com/Tulus-manusia-kuat-lyrics">
+    <music:number>13</music:number>
+    <music:image>https://t2.genius.com/unsafe/146x146/https%3A%2F%2Fimages.genius.com%2F7c0c0a8bf024611c638fa18137a5e039.1000x1000x1.jpg</music:image>
+    <rdfs:label>Manusia Kuat</rdfs:label>
+    <music:duration>
+    3:05
+    </music:duration>
+    <music:artist>Tulus</music:artist>
+    <music:year>2016-08-03</music:year>
+    <music:genre>Indonesian Pop</music:genre>
+    <music:producer>Riri Muktamar dan Ari Renaldi</music:producer>
+    <music:summary>
+        Lagu manusia kuat merupakan satu dari 10 lagu yang terdapat dalam album ketiga Tulus yang berjudul monokrom. Lagu manusia kuat pertama dirilis pada tahun 2016, dengan mengusung genre pop.
+        Pada tahun 2017 lagu dari penyanyi Tulus ini berhasil memenangkan penghargaan Piala Maya untuk kategori Video Klip Musik Terpilih, kemudian pada tahun 2018 lagu ini juga berhasil meraih perhargaan sebagai Music Video of the Year dalam ajang penghargaan Indonesian Choice Award.
+    </music:summary>
+    <foaf:homepage rdf:resource="https://www.youtube.com/embed/LHOh-R00gzI"/>
+</music:song>
+
+<music:song rdf:about="https://genius.com/The-chainsmokers-and-coldplay-something-just-like-this-lyrics">
+    <music:number>12</music:number>
+    <music:image>https://t2.genius.com/unsafe/146x146/https%3A%2F%2Fimages.genius.com%2Fccc4ed75531c7d3ad9085317e9554a3a.1000x1000x1.jpg</music:image>
+    <rdfs:label>Something just like this</rdfs:label>
+    <music:duration>
+    4:08
+    </music:duration>
+    <music:artist>The Chainsmokers</music:artist>
+    <music:year>2017-02-22</music:year>
+    <music:genre>Pop Music</music:genre>
+    <music:producer>The Chainsmokers</music:producer>
+    <music:summary>
+        “Something Just Like This” is about a relationship that doesn’t need to be superhumanly perfect.
+
+        On February 21, 2017, Spotify teased the song by displaying a banner advertisement on their main page. It was subsequently released on February 22, 2017, following Coldplay and The Chainsmokers' surprise performance at the BRIT Awards. However, Coldplay frontman Chris Martin teased it in a tweet one month prior:
+        
+        
+        As Forbes reported, the official lyric video broke the record for the most views in a single day on Youtube:
+        
+        According to a YouTube representative, the “Something Just Like This” lyric video racked up over 9 million views in just its first 24 hours of availability, a new all-time record.
+  
+    </music:summary>
+    <foaf:homepage rdf:resource="https://www.youtube.com/embed/FM7MFYoylVs"/>
+</music:song>
+
+<music:song rdf:about="https://genius.com/Avicii-the-nights-lyrics">
+    <music:number>11</music:number>
+    <music:image>https://t2.genius.com/unsafe/146x146/https%3A%2F%2Fimages.genius.com%2F21d81a42bd2549d9c18f7389a13acb8b.1000x1000x1.png</music:image>
+    <rdfs:label>The Nights</rdfs:label>
+    <music:duration>
+    2:44
+    </music:duration>
+    <music:artist>Avicii</music:artist>
+    <music:year>2014-09-19</music:year>
+    <music:genre>EDM Rock</music:genre>
+    <music:producer>Arash Pournouri and Avicii</music:producer>
+    <music:summary>
+        “The Nights” by Avicii is an ode to good fun and also to the singer’s father. The “pirate-y fight” (as described by the writer Nicholas Furlong) sound to the song was inspired by the bars in Ireland, where they play folk music which is upbeat and easy to dance (and drink) to.
+    </music:summary>
+    <foaf:homepage rdf:resource="https://www.youtube.com/embed/UtF6Jej8yb4"/>
+</music:song>
+
+<music:song rdf:about="https://genius.com/Coldplay-fix-you-lyrics">
+    <music:number>10</music:number>
+    <music:image>https://t2.genius.com/unsafe/146x146/https%3A%2F%2Fimages.genius.com%2F6c0d5368ca48b9e35fd2893b2dc21605.1000x1000x1.png</music:image>
+    <rdfs:label>Fix You</rdfs:label>
+    <music:duration>
+    4:48
+    </music:duration>
+    <music:artist>Coldplay</music:artist>
+    <music:year>2005-6-06</music:year>
+    <music:genre>Pop Music</music:genre>
+    <music:producer>Danton Supple, Coldplay and Ken Nelson</music:producer>
+    <music:summary>
+        “Fix You” is the fourth track and second single from Coldplay’s third album X and Y. It was written by Chris Martin for his then-wife, Gwyneth Paltrow, to comfort her after her father passed away.
+        The song has been covered numerous times, including notable renditions by the Young@Heart chorus in the award-winning 2007 documentary, as well as pop icon Sam Smith, and Korean septet BTS.
+    </music:summary>
+    <foaf:homepage rdf:resource="https://www.youtube.com/embed/k4V3Mo61fJM"/>
+</music:song>
+
+<music:song rdf:about="https://genius.com/Coldplay-viva-la-vida-lyrics">
+    <music:number>9</music:number>
+    <music:image>https://t2.genius.com/unsafe/146x146/https%3A%2F%2Fimages.genius.com%2F479060afdfd52587cd88764e817fc7fa.600x600x1.jpg</music:image>
+    <rdfs:label>Viva la Vida</rdfs:label>
+    <music:duration>
+    4:48
+    </music:duration>
+    <music:artist>Coldplay</music:artist>
+    <music:year>2008-5-25</music:year>
+    <music:genre>Rock Music</music:genre>
+    <music:producer>Rik Simpson, Brian Eno and Markus Dravs</music:producer>
+    <music:summary>
+        Revered as an essential rock song of the 2000s, “Viva La Vida” tells the story of a monarch who’s lost his kingdom. In another aspect, the song is also seen as a narrative on the French Revolution given the historical and biblical references in the lyrics. The instrumental is based around a string and piano background, led by an orchestral drum beat.
+    </music:summary>
+    <foaf:homepage rdf:resource="https://www.youtube.com/embed/dvgZkm1xWPE"/>
+</music:song>
+
+<music:song rdf:about="https://genius.com/Labrinth-jealous-lyrics">
+    <music:number>8</music:number>
+    <music:image>https://t2.genius.com/unsafe/245x245/https%3A%2F%2Fimages.genius.com%2F0b4dcf6cef4fe4bc5cc99a5f5f6ea1fe.1000x1000x1.jpg</music:image>
+    <rdfs:label>Jealous</rdfs:label>
+    <music:duration>
+    4:48
+    </music:duration>
+    <music:artist>Labrinth</music:artist>
+    <music:year>2014-11-23</music:year>
+    <music:genre>Pop Music</music:genre>
+    <music:producer>Labrinth</music:producer>
+    <music:summary>
+        “Jealous” is a song by English electronic musician Labrinth. Written with Josh Kear and Natalie Hemby, the song was released on 23 November 2014.
+    </music:summary>
+    <foaf:homepage rdf:resource="https://www.youtube.com/embed/50VWOBi0VFs"/>
+</music:song>
+
+<music:song rdf:about="https://genius.com/John-mayer-youre-gonna-live-forever-in-me-lyrics">
+    <music:number>7</music:number>
+    <music:image>https://t2.genius.com/unsafe/288x288/https%3A%2F%2Fimages.genius.com%2F54aea343a17595ffe78abe34c08838c6.1000x1000x1.jpg</music:image>
+    <rdfs:label>You're gonna live forever in me</rdfs:label>
+    <music:duration>
+    3:11
+    </music:duration>
+    <music:artist>John Mayer</music:artist>
+    <music:year>2017-01-20</music:year>
+    <music:genre>Soft Rock Music</music:genre>
+    <music:producer>Davide Rossi, Martin Pradler, Chad Franscoviak and John Mayer</music:producer>
+    <music:summary>
+        “You’re Gonna Live Forever In Me” holds the promise of a legacy. John considers the impact that a special person has had on his life, claiming that “parts of [him] were made by [them].”
+        John’s personality is a product of the subject’s companionship, and John promises that influence will never die. In between a whistling intro and outro, Mayer invokes images of mass-extinction and “destiny” to prove his commitment.
+        The track was included in the first batch of songs released off the album, alongside “Moving On And Getting Over,” “Changing” and “Love On The Weekend.” The album was released in sets of four tracks – sets which were released monthly.
+    </music:summary>
+    <foaf:homepage rdf:resource="https://www.youtube.com/embed/08Ndzf5-HxI"/>
+</music:song>
+
+<music:song rdf:about="https://dbpedia.org/resource/Bohemian_Rhapsody">
+    <music:number>6</music:number>
+    <music:image>https://t2.genius.com/unsafe/288x288/https%3A%2F%2Fimages.genius.com%2Fff9ddef65ab95da61354ce587748e2e9.600x600x1.png</music:image>
+    <rdfs:label>Bohemian Rhapsody</rdfs:label>
+    <music:duration>
+    5:59
+    </music:duration>
+    <music:artist>Queen</music:artist>
+    <music:year>1975-10-31</music:year>
+    <music:genre>Hard Rock Music</music:genre>
+    <music:producer>Roy Thomas Baker</music:producer>
+    <music:summary>
+    Bohemian Rhapsody is a song by the British rock band Queen from their fourth album, A Night at the Opera (1975). Written by lead singer Freddie Mercury, the song is a six-minute suite, notable for its lack of a refraining chorus and consisting of several sections: an intro, a ballad segment, an operatic passage, a hard rock part and a reflective coda. It is one of the few progressive rock songs of the 1970s to achieve widespread commercial success and appeal to a mainstream audience. Mercury referred to "Bohemian Rhapsody" as a "mock opera" that resulted from the combination of three songs he had written. It was recorded by Queen and co-producer Roy Thomas Baker at five studios between August and September 1975. Due to recording logistics of the era, the band had to bounce the tracks across eight generations of 24-track tape, meaning that they required nearly 200 tracks for overdubs. The song parodies elements of opera with bombastic choruses, sarcastic recitative, and distorted Italian operatic phrases. Lyrical references include Scaramouche, the fandango, Galileo Galilei, Figaro, and Beelzebub, with cries of "Bismillah!" Although critical reaction was initially mixed, "Bohemian Rhapsody" became regarded as one of the greatest rock songs of all time, as well as Queen's most popular. The promotional video is credited with furthering the development of the music video medium. It has appeared in numerous polls of the greatest songs in popular music, including a ranking at number 17 on Rolling Stone's list of "the 500 Greatest Songs of All Time. A Rolling Stone readers' poll ranked Mercury's vocal performance as the greatest in rock history. "Bohemian Rhapsody" topped the UK Singles Chart for nine weeks (plus another five weeks following Mercury's 1991 death) and remains the UK's third best-selling single of all time. It also topped the charts in countries including Canada, Australia, New Zealand, Ireland, and the Netherlands, and sold over six million copies worldwide. In the United States, the song peaked at number nine in 1976, but reached a new peak of number two after appearing in the 1992 film Wayne's World. In 2004, the song was inducted into the Grammy Hall of Fame. Following the release of the 2018 biopic Bohemian Rhapsody, it became the most streamed song from the 20th century. In 2021, it was certified Diamond in the US for combined digital sales and streams equal to 10 million units.
+    </music:summary>
+    <foaf:homepage rdf:resource="https://www.youtube.com/embed/fJ9rUzIMcZQ"/>
+</music:song>
+
+<music:song rdf:about="https://dbpedia.org/resource/The_Ringer_(song)">
+    <music:number>5</music:number>
+    <music:image>https://cdn.vox-cdn.com/thumbor/eAPqu9c8FrPrIFvq-fXA1nN2c9A=/0x0:3000x2000/1200x800/filters:focal(1819x398:2299x878)/cdn.vox-cdn.com/uploads/chorus_image/image/58020429/Eminem2017_Getty_Ringer.0.jpg</music:image>
+    <rdfs:label>The Ringer</rdfs:label>
+    <music:duration>
+    2:44
+    </music:duration>
+    <music:artist>Eminem</music:artist>
+    <music:year>2018-08-31</music:year>
+    <music:genre>Hip Hop Music</music:genre>
+    <music:producer>Eminem</music:producer>
+    <music:summary>
+    The Ringer is a song by American rapper Eminem from his album Kamikaze (2018). Despite not being a single, it debuted in the top 10 in Australia, Canada, Finland, Ireland, New Zealand, Norway, Portugal, Sweden, Switzerland, the United Kingdom, and the United States. It contains an interpolation from Ooouuu, written by Matthew Jacobson and Katorah Marrero, as performed by Young M.A.
+    </music:summary>
+    <foaf:homepage rdf:resource="https://www.youtube.com/embed/yBYOsyny1oA"/>
+</music:song>
+
+<music:song rdf:about="https://dbpedia.org/resource/All_of_Me_(John_Legend_song)">
+    <music:number>4</music:number>
+    <music:image>http://mannequintheband.com/wp-content/uploads/2015/01/John-Legend-All-Of-Me2.jpg</music:image>
+    <rdfs:label>All of Me</rdfs:label>
+    <music:duration>
+    5:07
+    </music:duration>
+    <music:artist>John Legend</music:artist>
+    <music:year>2013-08-12</music:year>
+    <music:genre>Pop Music</music:genre>
+    <music:producer>Dave Tozer</music:producer>
+    <music:summary>
+    All of Me is a song by American singer John Legend from his fourth studio album Love in the Future (2013). It is dedicated to Legend's wife Chrissy Teigen. All of Me first aired on American mainstream urban radio as the album's third single on August 12, 2013. On the week ending May 26, 2014, it peaked at number one on the Billboard Hot 100, becoming his first number-one single in the United States. It knocked off Happy by Pharrell Williams, which had spent 10 weeks at number one. The song peaked at number two in the United Kingdom, South Africa and New Zealand and topped the charts in Australia, Canada, Ireland, Portugal, Sweden, Switzerland and the Netherlands. It became the second best-selling song of 2014 in the United States with 4.67 million copies sold for the year, as well as the third best-selling song in the United Kingdom. All of Me was the third best-selling song of 2014 with 12.3 million equivalent-units worldwide (sales plus streaming), according to the IFPI. A remix of the song (Tiësto's Birthday Treatment remix), featuring EDM artist Tiësto, was released in January 2014 and won the 2015 Grammy Award for Best Remixed Recording, Non-Classical, while another remix was done in March of that year by trance artist Dash Berlin. A live version of the song was nominated for Best Pop Solo Performance, losing to Williams' Happy
+    </music:summary>
+    <foaf:homepage rdf:resource="https://www.youtube.com/embed/450p7goxZqg"/>
+</music:song>
+
+<music:song rdf:about="https://dbpedia.org/resource/Birthday_(Selena_Gomez_song)">
+    <music:number>3</music:number>
+    <music:image>https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Flickr_-_moses_namkung_-_M.I.A._7_NR.jpg/300px-Flickr_-_moses_namkung_-_M.I.A._7_NR.jpg</music:image>
+    <rdfs:label>Birthday</rdfs:label>
+    <music:duration>
+    3:33
+    </music:duration>
+    <music:artist>Selena Gomez</music:artist>
+    <music:year>2013-07-19</music:year>
+    <music:genre>Electronic rock</music:genre>
+    <music:producer>Mike Del Rio</music:producer>
+    <music:summary>
+    Birthday is a song recorded by American singer Selena Gomez for her solo debut studio album Stars Dance (2013). It was written and produced by Mike Del Rio, with additional writing by Crista Russo and Jacob Kasher Hindlin. Matt Beckley also provided additional vocal production for the song. Musically, Birthday combines deep electronic dance beats and police sirens with elements of trap music. The song's instrumentation is created by blending purring, synthesized bass, snappy beats, handclaps, "oxygen-sucking" sub-bass, and trap snares with sexual moans and elements of hip hop music. Sparse drum beats and vocal chants are woven throughout the song's composition, which has been described by critics as club-ready electropunk, with trap and dubstep elements. The song was originally announced as a single, but was never officially released from the album. Thematically, "Birthday" is a party song which discusses topics such as sex appeal, self-entitlement, and girl power, while its risqué lyrics speak of a night of hard partying. The song has received comparisons to the music of several artists, including Dev, M.I.A., and Icona Pop. Upon release, Birthday received favorable reviews from music critics, who praised the song's unique sound and production. Upon the release of Stars Dance, the song charted at number 12 on the US Bubbling Under Hot 100 Singles. Birthday has charted at number 191 on the South Korea Gaon International Chart due to high digital downloads. An accompanying music video for the song was released on July 22, 2013, to coincide with Gomez's 21st birthday, and features the artist and her friends partying and singing the song in different locations, including an underground nightclub and a dark room.
+    </music:summary>
+    <foaf:homepage rdf:resource="https://www.youtube.com/embed/abWeJq_XlwA"/>
+</music:song>
+
+<music:song rdf:about="https://dbpedia.org/resource/Baby_(Justin_Bieber_song)">
+    <music:number>2</music:number>
+    <music:image>https://i.pinimg.com/originals/c0/fa/62/c0fa6262ebc7c716568932091f18df6c.jpg</music:image>
+    <rdfs:label>Baby</rdfs:label>
+    <music:duration>
+    3:40
+    </music:duration>
+    <music:artist>Justin Bieber feat. Ludacris</music:artist>
+    <music:year>2010-01-18</music:year>
+    <music:genre>Teen pop</music:genre>
+    <music:producer>* Tricky Stewart * The-Dream</music:producer>
+    <music:summary>
+    Baby is a song by Canadian singer Justin Bieber, featuring American rapper Ludacris. It was released as the lead single on Bieber's debut album, My World 2.0. The track was written by Bieber, Ludacris, Christina Milian, Tricky Stewart (who worked with Bieber on a previous single One Time), and R and B singer The-Dream, with production helmed by the latter two. It was available for digital download on January 18, 2010. The song received airplay directly after release, officially impacting mainstream and rhythmic radio on January 26, 2010.The song has received positive reviews from critics who complimented the song's effective lyrics and chorus and commended Ludacris' part and the song's ability to have an urban twist. The song was a commercial success, peaking at number one in France and Scotland, and charting in the top ten of the United Kingdom, Canada, the United States, Australia, Norway, Japan, Ireland, Hungary, Belgium (Flanders), Slovakia and New Zealand. Baby was the fourth most successful single of 2010 in France. The accompanying music video takes place in a mall/bowling-alley setting. The video features several cameos such as Drake, Lil Twist and Tinashe, in which Bieber chases after a girl. As of May 2013, the song has sold 3.9 million digital downloads in the United States and is certified Diamond in the country. The official music video is the 40th most-viewed video on YouTube and, as of July 2021, is the fourth-most-disliked YouTube video and the second most-disliked YouTube music video. It had been the most-viewed from July 12, 2010, when it surpassed the music video for Bad Romance by Lady Gaga, until November 24, 2012, when it was surpassed by the music video for Gangnam Style by Psy.
+    </music:summary>
+    <foaf:homepage rdf:resource="https://www.youtube.com/embed/kffacxfA7G4"/>
+</music:song>
+
+<music:song rdf:about="https://dbpedia.org/resource/Birthday_(Beatles_song)">
+    <music:number>1</music:number>
+    <music:image>https://i.ytimg.com/vi/wNcJ3jYOQGg/maxresdefault.jpg</music:image>
+    <rdfs:label>Birthday</rdfs:label>
+    <music:duration>
+    2:44
+    </music:duration>
+    <music:artist>The Beatles</music:artist>
+    <music:year>1968-11-22</music:year>
+    <music:genre>Hard Rock</music:genre>
+    <music:producer>George Martin</music:producer>
+    <music:summary>
+    Birthday is a song by the English rock band the Beatles from their 1968 double album The Beatles (also known as the White Album). Written by John Lennon and Paul McCartney, mainly by McCartney, it is the opening track on the third side of the LP (or the second disc in CD versions of the record). Surviving Beatles Paul McCartney and Ringo Starr performed it for Starr's 70th birthday at Radio City Music Hall on 7 July 2010.
+    </music:summary>
+    <foaf:homepage rdf:resource="https://www.youtube.com/embed/Cs5vUfddkT8"/>
+</music:song>
+
+</rdf:RDF>
