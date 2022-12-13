@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:foaf="http://xmlns.com/foaf/0.1/"
+         xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+         xmlns:owl="http://www.w3.org/2002/07/owl#"
+         xmlns:dc="http://purl.org/dc/terms/"
+         xmlns:artist="https://example.org/schema/artist">
+
+<artist:source rdf:about="https://dbpedia.org/source/Coldplay">
+    <artist:number>26</artist:number>
+    <artist:image>https://t2.genius.com/unsafe/288x292/https%3A%2F%2Fimages.genius.com%2F225d6cb0fef34cc080a51fefb2384c8b.599x607x1.jpg</artist:image>
+    <rdfs:label>Ho Hey</rdfs:label>
+    <artist:duration>
+    2:41
+    </artist:duration>
+    <artist:artist>The Lumineers</artist:artist>
+    <artist:year>2012-04-03</artist:year>
+    <artist:genre>Pop artist</artist:genre>
+    <artist:producer>Ryan Hadlock</artist:producer>
+    <artist:summary>
+        Ranked at #36 in United States
+        Wesley Schultz is trying to do the right things the right way, whether it’s in a relationship or in life in general. Although he does say, “it”, which might means he’s trying to do what he’s going through right.    </artist:summary>
+    <foaf:homepage rdf:resource="https://www.youtube.com/embed/zvCBSSwgtg4"/>
+</artist:source>
+
+
+</rdf:RDF>
