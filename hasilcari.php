@@ -17,14 +17,24 @@ $sparql_jena = new \EasyRdf\Sparql\Client('http://localhost:3030/data_musik/spar
 
 $sparql_query = '
 SELECT ?m ?title ?image ?artist ?year ?no ?summary WHERE {
-    ?m rdf:type music:song;
-       rdfs:label ?title;
-       music:image ?image;
-       music:artist ?artist;
-       music:year ?year;
-       music:summary ?summary;
-       music:number ?no.
-  FILTER(?title = "'.($_POST['judul']).'").
+    { ?m rdf:type music:song;
+        rdfs:label ?title;
+        music:image ?image;
+        music:artist ?artist;
+        music:year ?year;
+        music:summary ?summary;
+        music:number ?no.
+         FILTER REGEX (?title, "'.($_POST['judul']).'", "i").
+     } UNION {
+         ?m rdf:type music:song;
+         rdfs:label ?title;
+         music:image ?image;
+         music:artist ?artist;
+         music:year ?year;
+         music:summary ?summary;
+         music:number ?no.
+         FILTER REGEX (?artist, "'.($_POST['judul']).'", "i").
+     }
 } ';
 $result = $sparql_jena->query($sparql_query);
 
@@ -54,7 +64,7 @@ $result = $sparql_jena->query($sparql_query);
     <?php include 'header.php'; ?>
 
     <div class="tm-hero d-flex justify-content-center align-items-center" data-parallax="scroll">
-        <form class="d-flex tm-search-form" id="search-form" method="POST" role="search" action="photo-detail.php">
+        <form class="d-flex tm-search-form" id="search-form" method="POST" role="search" action="hasilcari.php">
         <input type="address" name="judul" class="form-control tm-search-input" type="search" placeholder="Search" aria-label="Search">
             <button class="btn btn-outline-success tm-search-btn-outline-primary" type="submit">
                 <i class="fas fa-search"></i>
