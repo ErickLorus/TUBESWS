@@ -22,8 +22,8 @@ SELECT ?m ?title ?image ?artist ?year ?no WHERE {
        music:artist ?artist;
        music:year ?year;
        music:number ?no.
-} ORDER BY DESC(?no)
-LIMIT 4';
+} ORDER BY DESC(?year)
+LIMIT 8';
 $result = $sparql_jena->query($sparql_query);
 
 
@@ -62,7 +62,7 @@ $result = $sparql_jena->query($sparql_query);
     <div class="container-fluid tm-container-content tm-mt-60">
         <div class="row mb-4">
             <h2 class="col-6 text-light">
-                Latest Hits
+                Latest Songs
             </h2>
         </div>
         <div class="row tm-mb-90 tm-gallery">
