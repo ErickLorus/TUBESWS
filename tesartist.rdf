@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:foaf="http://xmlns.com/foaf/0.1/"
+         xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+         xmlns:owl="http://www.w3.org/2002/07/owl#"
+         xmlns:dc="http://purl.org/dc/terms/"
+         xmlns:artist="https://example.org/schema/artist">
+
+<artist:profile rdf:about="https://dbpedia.org/resource/The_Beatles">
+    <artist:number>11</artist:number>
+    <artist:image>https://assets.promediateknologi.com/crop/0x0:0x0/x/photo/2022/01/30/363396504.jpg</artist:image>
+    <rdfs:label>The Beatles</rdfs:label>
+    <artist:year>1970-01-01</artist:year>
+    <artist:members>George Harrison</artist:members>
+    <artist:members>John Lennon</artist:members>
+    <artist:members>Ringo Starr</artist:members>
+    <artist:members>Paul McCartney</artist:members>
+    <artist:genre>Rock Music</artist:genre>
+    <artist:genre>Pop Music</artist:genre>
+    <artist:genre>Psychedelic Music</artist:genre>
+    <artist:genre>Beat Music</artist:genre>
+    <artist:hometown>Liverpool</artist:hometown>
+    <artist:abstract>
+The Beatles were an English rock band, formed in Liverpool in 1960, that comprised John Lennon, Paul McCartney, George Harrison and Ringo Starr. They are regarded as the most influential band of all time and were integral to the development of 1960s counterculture and popular music's recognition as an art form. Rooted in skiffle, beat and 1950s rock 'n' roll, their sound incorporated elements of classical music and traditional pop in innovative ways; the band later explored music styles ranging from ballads and Indian music to psychedelia and hard rock. As pioneers in recording, songwriting and artistic presentation, the Beatles revolutionised many aspects of the music industry and were often publicised as leaders of the era's youth and sociocultural movements. Led by primary songwriters Lennon and McCartney, the Beatles evolved from Lennon's previous group, the Quarrymen, and built their reputation playing clubs in Liverpool and Hamburg over three years from 1960, initially with Stuart Sutcliffe playing bass. The core trio of Lennon, McCartney and Harrison, together since 1958, went through a succession of drummers, including Pete Best, before asking Starr to join them in 1962. Manager Brian Epstein moulded them into a professional act, and producer George Martin guided and developed their recordings, greatly expanding their domestic success after signing to EMI Records and achieving their first hit, "Love Me Do", in late 1962. As their popularity grew into the intense fan frenzy dubbed "Beatlemania", the band acquired the nickname "the Fab Four", with Epstein, Martin or another member of the band's entourage sometimes informally referred to as a "fifth Beatle". By early 1964, the Beatles were international stars and had achieved unprecedented levels of critical and commercial success. They became a leading force in Britain's cultural resurgence, ushering in the British Invasion of the United States pop market, and soon made their film debut with A Hard Day's Night (1964). A growing desire to refine their studio efforts, coupled with the untenable nature of their concert tours, led to the band's retirement from live performances in 1966. At this time, they produced records of greater sophistication, including the albums Rubber Soul (1965), Revolver (1966) and Sgt. Pepper's Lonely Hearts Club Band (1967), and enjoyed further commercial success with The Beatles (also known as "the White Album", 1968) and Abbey Road (1969). The success of these records heralded the album era, as albums became the dominant form of record consumption over singles; they also increased public interest in psychedelic drugs and Eastern spirituality, and furthered advancements in electronic music, album art and music videos. In 1968, they founded Apple Corps, a multi-armed multimedia corporation that continues to oversee projects related to the band's legacy. After the group's break-up in 1970, all principal former members enjoyed success as solo artists and some partial reunions have occurred. Lennon was murdered in 1980 and Harrison died of lung cancer in 2001. McCartney and Starr remain musically active. The Beatles are the best-selling music act of all time, with estimated sales of 600 million units worldwide. They hold the record for most number-one albums on the UK Albums Chart (15), most number-one hits on the US Billboard Hot 100 chart (20), and most singles sold in the UK (21.9 million). The band received many accolades, including seven Grammy Awards, four Brit Awards, an Academy Award (for Best Original Song Score for the 1970 documentary film Let It Be) and fifteen Ivor Novello Awards. They were inducted into the Rock and Roll Hall of Fame in 1988, and each principal member was inducted individually between 1994 and 2015. In 2004 and 2011, the group topped Rolling Stone's lists of the greatest artists in history. Time magazine named them among the 20th century's 100 most important people. (en)
+    </artist:abstract>
+        <foaf:homepage rdf:resource="https://www.thebeatles.com/"/>
+</artist:profile>   
+
+<artist:profile rdf:about="https://dbpedia.org/resource/Selena_Gomez">
+    <artist:number>10</artist:number>
+    <artist:image>https://thumb.viva.co.id/media/frontend/thumbs3/2022/08/08/62f117f2765be-selena-gomez_665_374.jpeg</artist:image>
+    <rdfs:label>Selena Gomez</rdfs:label>
+    <artist:occupation>Singer</artist:occupation>
+    <artist:occupation>Producer</artist:occupation>
+    <artist:occupation>Songwriter</artist:occupation>
+    <artist:occupation>Actress</artist:occupation>
+    <artist:year>2002-01-01</artist:year>
+    <artist:genre>Pop</artist:genre>
+    <artist:genre>Electronic Dance Music</artist:genre>
+    <artist:hometown>Texas</artist:hometown>
+    <artist:abstract>
+    Selena Marie Gomez (/səˈliːnə ˈɡoʊmɛz/ sə-LEE-nə GOH-mez; born July 22, 1992) is an American singer, songwriter, and actress. Gomez began her acting career on the children's television series Barney and Friends (2002–2004). In her teenage years, she rose to prominence for her lead role as Alex Russo in the Disney Channel television series Wizards of Waverly Place (2007–2012). Alongside her television career, Gomez appeared in the films Another Cinderella Story (2008), Princess Protection Program (2009), Wizards of Waverly Place: The Movie (2009), Ramona and Beezus (2010), Monte Carlo (2011), Spring Breakers (2012), Getaway (2013), The Fundamentals of Caring (2016), The Dead Don't Die (2019), and A Rainy Day in New York (2019). She voiced the character Mavis in the Hotel Transylvania film franchise (2012–2022). Gomez executive produced the Netflix television series 13 Reasons Why (2017–2020) and Living Undocumented (2019) through her production company, July Moonhead Productions. She also executive produces and stars in the HBO Max cooking series Selena + Chef (2020–present) and the Hulu mystery-comedy series Only Murders in the Building (2021–present). The latter earned Gomez critical praise, and a nomination for Best Actress in a Comedy series at the Critics' Choice Television Awards. Gomez released three albums with her former band, Selena Gomez and the Scene, all of which reached the top ten of the US Billboard 200 and were certified gold by the Recording Industry Association of America: Kiss and Tell (2009), A Year Without Rain (2010), and When the Sun Goes Down (2011). Additionally, Gomez's three solo studio albums—Stars Dance (2013), Revival (2015), and Rare (2020)—each debuted atop the Billboard 200. She also released the Spanish-language EP Revelación (2021), for which she received a nomination for the Grammy Award for Best Latin Pop Album. A number of Gomez's singles have charted inside the top ten of the US Billboard Hot 100, including "Come and Get It", "The Heart Wants What It Wants", "Good for You", "Same Old Love", "Hands to Myself", "We Don't Talk Anymore", "It Ain't Me", and her first number-one song "Lose You to Love Me". Many of her songs are recognized by their characteristic, hushed vocal stylings. As of 2017, Gomez has sold over seven million albums and 22 million singles worldwide, according to Billboard. She has received various accolades and was named Billboard's Woman of the Year in 2017. Time magazine named her one of the 100 most influential people in the world in 2020. She has a large following on social media and is the most followed musician and actress on Instagram. Gomez's other ventures include makeup, clothing, handbag and fragrance lines. She has worked with many charitable organizations and served as a UNICEF ambassador since age 17. (en)
+    </artist:abstract>
+    <foaf:homepage rdf:resource="https://www.selenagomez.com/"/>
+</artist:profile>  
+
+<artist:profile rdf:about="https://dbpedia.org/resource/John_Legend">
+    <artist:number>9</artist:number>
+    <artist:image>https://www.biography.com/.image/t_share/MTgwNTA3MTcxMjg3NDc1NTYw/gettyimages-1230039869.jpg</artist:image>
+    <rdfs:label>John Legend</rdfs:label>
+    <artist:occupation>Pianist</artist:occupation>
+    <artist:occupation>Singer</artist:occupation>
+    <artist:occupation>Songwriter</artist:occupation>
+    <artist:occupation>Record Producer</artist:occupation>
+    <artist:occupation>Television Personality</artist:occupation>
+    <artist:occupation>Actor</artist:occupation>
+    <artist:year>1997-01-01</artist:year>
+    <artist:genre>R/B Soul</artist:genre>
+    <artist:hometown>Springfield, Ohio</artist:hometown>
+    <artist:abstract>
+John Roger Stephens (born December 28, 1978), known professionally as John Legend, is an American singer, songwriter, pianist, and record producer. He began his musical career by working behind the scenes, playing piano on Lauryn Hill's "Everything Is Everything", and making uncredited guest appearances on Jay-Z's "Encore" and Alicia Keys's "You Don't Know My Name". He then signed to Kanye West's GOOD Music and released his debut album Get Lifted (2004), which reached the top ten on the Billboard 200 and was certified double platinum by the Recording Industry Association of America. The album earned him eight nominations at the 48th Annual Grammy Awards, including nominations for the singles "So High" with Lauryn Hill and "Ordinary People", with the latter song winning for Best Male R and B Vocal Performance, while also earning him awards for Best New Artist and Best R and B Album. His second studio album Once Again (2006), spawned the single "Save Room", and became his second top ten album on the Billboard 200 chart. The lead single from his third album Evolver (2008), "Green Light" featuring André 3000, reached the top 40 on the Billboard Hot 100 and was certified platinum by the RIAA. In June 2008, he released the live album John Legend: Live from Philadelphia. Legend would later collaborate with The Roots on the album Wake Up! (2010). His fourth studio album, Love in the Future (2013), spawned the single "All of Me", which peaked at number one on the Billboard Hot 100, and has been certified 13× platinum by the RIAA. In 2015, he was featured on the single "Like I'm Gonna Lose You" by Meghan Trainor, which reached the top ten in the U.S. Legend has since released the albums Darkness and Light (2016), A Legendary Christmas (2018). In 2020 Legend published his seventh studio album Bigger Love, which won the Grammy Award for Best R and B Album, and in 2022 the double album Legend. In 2007, Legend received the Hal David Starlight Award from the Songwriters Hall of Fame. Legend won the Academy Award for Best Original Song and Golden Globe Award in 2015 for co-writing the song "Glory" from the film Selma. He has received a total of twelve Grammy Awards. In 2017, Legend won a Tony Award for co-producing Jitney for the Broadway stage. In 2018, Legend portrayed Jesus Christ in NBC's adaptation of the rock opera Jesus Christ Superstar. He received a Primetime Emmy Award nomination for his acting role, and won for his role as a producer of the show, making him the first black man and second youngest person to have won all four of the major American entertainment awards: Emmy, Grammy, Oscar, and Tony (EGOT). Legend is also the recipient of the NAACP's President's Award. Since 2019, Legend has been featured as a coach on The Voice. (en)        <foaf:homepage rdf:resource="https://www.eminem.com/"/>
+    </artist:abstract>
+    <foaf:homepage rdf:resource="https://www.johnlegend.com/"/>
+</artist:profile>  
+
+<artist:profile rdf:about="https://dbpedia.org/resource/Eminem">
+    <artist:number>9</artist:number>
+    <artist:image>https://media.npr.org/assets/music/news/2010/06/eminem-52893634f7c035450a7b5ff2e040cacb4012395e-s1100-c50.jpg</artist:image>
+    <rdfs:label>Eminem</rdfs:label>
+    <artist:occupation>Rapper</artist:occupation>
+    <artist:occupation>Singer</artist:occupation>
+    <artist:occupation>Songwriter</artist:occupation>
+    <artist:occupation>Record Producer</artist:occupation>
+    <artist:occupation>Record Executive</artist:occupation>
+    <artist:occupation>Actor</artist:occupation>
+    <artist:year>1988-01-01</artist:year>
+    <artist:genre>Rock</artist:genre>
+    <artist:genre>Blues</artist:genre>
+    <artist:genre>Pop</artist:genre>
+    <artist:hometown>Missouri</artist:hometown>
+    <artist:abstract>
+Marshall Bruce Mathers III (born October 17, 1972), known professionally as Eminem (/ˌɛmɪˈnɛm/; stylized as EMINƎM), is an American rapper and record producer. He is credited with popularizing hip hop in middle America and is critically acclaimed as one of the greatest rappers of all time. Eminem's global success and acclaimed works are widely regarded as having broken racial barriers for the acceptance of white rappers in popular music. While much of his transgressive work during the late 1990s and early 2000s made him widely controversial, he came to be a representation of popular angst of the American underclass and has been cited as an influence for many artists of various genres. After the release of his debut album Infinite (1996) and the extended play Slim Shady EP (1997), Eminem signed with Dr. Dre's Aftermath Entertainment and subsequently achieved mainstream popularity in 1999 with The Slim Shady LP. His next two releases, The Marshall Mathers LP (2000) and The Eminem Show (2002), were worldwide successes and were both nominated for the Grammy Award for Album of the Year. After the release of his next album, Encore (2004), Eminem went on hiatus in 2005, largely due to a prescription drug addiction. He returned to the music industry four years later with the release of Relapse (2009) and Recovery was released the following year. Recovery was the best-selling album worldwide of 2010, making it Eminem's second album, after The Eminem Show in 2002, to be the best-selling album of the year worldwide. In the following years, he released the US number one albums The Marshall Mathers LP 2 (2013), Revival (2017), Kamikaze (2018) and Music to Be Murdered By (2020). Eminem made his debut in the film industry with the musical drama film 8 Mile (2002), playing a fictionalized version of himself, and his track "Lose Yourself" from its soundtrack won the Academy Award for Best Original Song, making him the first hip hop artist ever to win the award. Eminem has made cameo appearances in the films The Wash (2001), Funny People (2009) and The Interview (2014) and the television series Entourage (2010). He has also developed other ventures, including Shady Records, a joint venture with manager Paul Rosenberg, which helped launch the careers of artists such as 50 Cent, D12 and Obie Trice, among others. He has also established his own channel, Shade 45, on Sirius XM Radio. In addition to his solo career, Eminem was a member of the hip hop group D12. He is also known for collaborations with fellow Detroit-based rapper Royce da 5'9"; the two are collectively known as Bad Meets Evil. Eminem is among the best-selling music artists of all time, with estimated worldwide sales of over 220 million records. He was the best-selling music artist in the United States of the 2000s and the best-selling male music artist in the United States of the 2010s, third overall. Billboard named him the "Artist of the Decade (2000–2009)". He has had ten number-one albums on the Billboard 200—which all consecutively debuted at number one on the chart, making him the first artist to achieve this—and five number-one singles on the Billboard Hot 100. The Marshall Mathers LP, The Eminem Show, Curtain Call: The Hits (2005), "Lose Yourself", "Love the Way You Lie" and "Not Afraid" have all been certified Diamond or higher by the Recording Industry Association of America (RIAA). Rolling Stone has included him in its lists of the 100 Greatest Artists of All Time and the 100 Greatest Songwriters of All Time. He has won numerous awards, including 15 Grammy Awards, eight American Music Awards, 17 Billboard Music Awards, an Academy Award, a Primetime Emmy Award and an MTV Europe Music Global Icon Award. In 2022, Eminem was inducted into the Rock and Roll Hall of Fame. (en)    </artist:abstract>    
+        <foaf:homepage rdf:resource="https://www.eminem.com/"/>
+</artist:profile>  
+
+<artist:profile rdf:about="https://dbpedia.org/resource/Queen_(band)">
+    <artist:number>8</artist:number>
+    <artist:image>https://cdn.britannica.com/83/149183-050-25913164/Queen.jpg</artist:image>
+    <rdfs:label>Queen</rdfs:label>
+    <artist:year>1970-01-01</artist:year>
+    <artist:members>Brian May</artist:members>
+    <artist:members>Roger Taylor</artist:members>
+    <artist:members>Freddie Mercury</artist:members>
+    <artist:members>John Deacon</artist:members>
+    <artist:genre>Rock Music</artist:genre>
+    <artist:hometown>London</artist:hometown>
+    <artist:abstract>
+Queen are a British rock band formed in London in 1970. The band comprised Freddie Mercury (lead vocals, piano), Brian May (guitar, vocals), Roger Taylor (drums, vocals) and John Deacon (bass). Their earliest works were influenced by progressive rock, hard rock and heavy metal, but the band gradually ventured into more conventional and radio-friendly works by incorporating further styles, such as arena rock and pop rock. Before forming Queen, May and Taylor had played together in the band Smile. Mercury was a fan of Smile and encouraged them to experiment with more elaborate stage and recording techniques. He joined in 1970 and suggested the name "Queen". Deacon was recruited in February 1971, before the band released their eponymous debut album in 1973. Queen first charted in the UK with their second album, Queen II, in 1974. Sheer Heart Attack later that year and A Night at the Opera in 1975 brought them international success. The latter featured "Bohemian Rhapsody", which stayed at number one in the UK for nine weeks and helped popularise the music video format. The band's 1977 album News of the World contained "We Will Rock You" and "We Are the Champions", which have become anthems at sporting events. By the early 1980s, Queen were one of the biggest stadium rock bands in the world. "Another One Bites the Dust" from The Game (1980) became their best-selling single, while their 1981 compilation album Greatest Hits is the best-selling album in the UK and is certified nine times platinum in the US. Their performance at the 1985 Live Aid concert is ranked among the greatest in rock history by various publications. In August 1986, Mercury gave his last performance with Queen at Knebworth, England. In 1991, he died of bronchopneumonia, a complication of AIDS. Deacon retired in 1997. Since 2004, May and Taylor have toured as "Queen +", with vocalists Paul Rodgers and Adam Lambert. Queen have been a global presence in popular culture for more than five decades. Estimates of their record sales range from 250 million to 300 million, making them one of the world's best-selling music artists. In 1990, Queen received the Brit Award for Outstanding Contribution to British Music. They were inducted into the Rock and Roll Hall of Fame in 2001, and with each member having composed hit singles all four were inducted into the Songwriters Hall of Fame in 2003. In 2005 they received the Ivor Novello Award for Outstanding Song Collection from the British Academy of Songwriters, Composers, and Authors, and in 2018 they were presented the Grammy Lifetime Achievement Award. (en)    </artist:abstract>
+    <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Queen_(band)"/>
+</artist:profile>         
+         
+<artist:profile rdf:about="https://dbpedia.org/resource/John_Mayer">
+    <artist:number>7</artist:number>
+    <artist:image>https://variety.com/wp-content/uploads/2020/04/John-Mayer.jpg</artist:image>
+    <rdfs:label>John Mayer</rdfs:label>
+    <artist:occupation>Singer</artist:occupation>
+    <artist:occupation>Songwriter</artist:occupation>
+    <artist:occupation>Guitarist</artist:occupation>
+    <artist:year>1998-01-01</artist:year>
+    <artist:genre>Rock</artist:genre>
+    <artist:genre>Blues</artist:genre>
+    <artist:genre>Pop</artist:genre>
+    <artist:hometown>Fairfield, Connecticut</artist:hometown>
+    <artist:abstract>
+    John Clayton Mayer (/ˈmeɪ.ər/ MAY-ər; born October 16, 1977) is an American singer, songwriter, and guitarist. Born and raised in Fairfield County, Connecticut, Mayer attended Berklee College of Music in Boston, but left and moved to Atlanta in 1997 with Clay Cook. Together, they formed a short-lived two-man band called Lo-Fi Masters. After their split, Mayer continued to play local clubs, refining his skills and gaining a following. After his appearance at the 2001 South by Southwest festival, he was signed to Aware Records, and eventually to Columbia Records, which released his first extended play Inside Wants Out. His following two studio albums—Room for Squares (2001) and Heavier Things (2003)—performed well commercially, achieving multi-platinum status. In 2003, he won the Grammy Award for Best Male Pop Vocal Performance for his single "Your Body Is a Wonderland". By 2005, Mayer had moved away from the acoustic music that characterized his early records, and begun performing the blues and rock music that had originally influenced him as a musician. He collaborated with blues artists such as B.B. King, Buddy Guy, and Eric Clapton. Forming the John Mayer Trio, he released a live album, Try!, in 2005 and his third studio album Continuum in 2006. Both albums received positive reviews, and Continuum earned Mayer a 2007 Grammy Award for Best Pop Vocal Album. He also won Best Male Pop Vocal Performance for "Waiting on the World to Change". That album was followed by Battle Studies in 2009, a return to pop, with a Battle Studies World Tour. After having several controversial incidents with the media, Mayer withdrew from public life in 2010 and began work on his fifth studio album, Born and Raised, which drew inspiration from the 1970s pop music of Laurel Canyon. However, the discovery of a granuloma on his vocal cords delayed the release of the album until May 2012, and forced him to cancel the planned tour. The album received a generally favorable reception, though was less commercially successful than his previous work. Mayer began performing as a singer again in January 2013, and that year released his sixth studio album, Paradise Valley, which incorporates country music influences. By 2014, he had sold a total of over 20 million albums worldwide. His seventh album, The Search for Everything, a loose concept album based around the theme of a romantic break-up, was released in 2017. Mayer released his latest album, Sob Rock, inspired by 1980s soft rock music, in July 2021. In 2015, three former members of the Grateful Dead joined with Mayer and two other musicians to form the band Dead and Company. It is the latest of several reunions of the band's surviving members since Jerry Garcia's death in 1995. The band remains active and its tours have been well received. Mayer's secondary career pursuits extend to television hosting, comedy, and writing; he has authored columns for magazines such as Esquire. He supports various causes and has performed at charity benefits. He is a watch aficionado (with a collection he values in the "tens of millions" of dollars), contributing to the watch site Hodinkee, and has been on the jury at the Grand Prix d'Horlogerie de Genève. (en)        <foaf:homepage rdf:resource="https://www.labrinth.com/"/>
+    </artist:abstract>    
+        <foaf:homepage rdf:resource="https://johnmayer.com/"/>
+</artist:profile>         
+
+<artist:profile rdf:about="https://dbpedia.org/resource/Labrinth">
+    <artist:number>6</artist:number>
+    <artist:image>https://www.rollingstone.com/wp-content/uploads/2019/10/Labrinth.jpg</artist:image>
+    <rdfs:label>Labrinth</rdfs:label>
+    <artist:occupation>Singer</artist:occupation>
+    <artist:occupation>Record Producer</artist:occupation>
+    <artist:occupation>Songwriter</artist:occupation>
+    <artist:occupation>Composer</artist:occupation>
+    <artist:occupation>Rapper</artist:occupation>
+    <artist:year>2009-01-01</artist:year>
+    <artist:genre>Soul Music</artist:genre>
+    <artist:genre>Hip Hop Music</artist:genre>
+    <artist:genre>Electronic Music</artist:genre>
+    <artist:genre>Contemporary R/B</artist:genre>
+    <artist:genre>Grime</artist:genre>
+    <artist:hometown>London</artist:hometown>
+    <artist:abstract>
+Timothy Lee McKenzie (born 4 January 1989), better known by his stage name Labrinth, is an English singer, rapper, songwriter and record producer. After initially pursuing a career in music production, Simon Cowell signed him to his record label Syco Music as a recording artist, becoming the first singer who Cowell signed without having competed on a talent show in six years. Labrinth collaborated with the English rapper Tinie Tempah, appearing as an uncredited featured artist on the single "Pass Out", and later officially on "Frisky"; before releasing his first solo single, "Let the Sun Shine" in September 2010, all three of which peaked in the top five on the UK Singles Chart. His debut album, Electronic Earth (2012), peaked at number two on the UK Albums Chart and spawned four top five singles in the United Kingdom. The single "Beneath Your Beautiful", became his first song to reach the top 40 on the US Billboard Hot 100, and peaked at number one in the United Kingdom, and also received a nomination for Best British Single at the Brit Awards. In November 2014, he released the single "Jealous", which was later certified Platinum in the United Kingdom. In 2018, Labrinth formed the supergroup LSD with Australian singer-songwriter Sia and American DJ and producer Diplo. They released their self-titled debut album the following year. In October 2019, he composed the score for the first season of the HBO drama series Euphoria, it received two Primetime Emmy Awards nominations, winning one for the single "All for Us"; he then released his second album Imagination and the Misfit Kid (2019). In April 2022, Euphoria Season 2 Official Score (From the HBO Original Series) composed by Labrinth, was released. It earned him an additional two Primetime Emmy Award nominations for the songs "I'm Tired" and "Elliot's Song", written alongside Zendaya. He has been referred to as “one of the most important British musicians of his generation.” Labrinth has worked with numerous artists as a songwriter and producer including Beyoncé, Kanye West, and the Weeknd. His production work on the Weeknd's album Beauty Behind the Madness earned him a Grammy Award for Album of the Year nomination. He also co-produced the soundtrack The Lion King: The Gift, and co-wrote the single "Spirit", alongside Beyoncé and Ilya Salmanzadeh, for which he received nominations at the Grammy Awards, Golden Globe Awards, and the Critics' Choice Movie Awards. (en)    </artist:abstract>
+        <foaf:homepage rdf:resource="https://www.labrinth.com/"/>
+    </artist:profile>         
+
+<artist:profile rdf:about="https://dbpedia.org/resource/Avicii">
+    <artist:number>5</artist:number>
+    <artist:image>https://asset.kompas.com/crops/BDmNHEETxCK0f40lqgewcoC5rCU=/0x0:798x532/750x500/data/photo/2018/04/20/4082429218.jpg</artist:image>
+    <rdfs:label>Avicii</rdfs:label>
+    <artist:occupation>DJ</artist:occupation>
+    <artist:occupation>Record Producer</artist:occupation>
+    <artist:occupation>Songwriter</artist:occupation>
+    <artist:occupation>Remixer</artist:occupation>
+    <artist:year>2006-01-01</artist:year>
+    <artist:genre>Dance/Electronic</artist:genre>
+    <artist:genre>Electronic Dance Music</artist:genre>
+    <artist:hometown>Stockholm</artist:hometown>
+    <artist:abstract>
+        Tim Bergling (Swedish: [ˈtɪmː ˈbæ̂rjlɪŋ]; 8 September 1989 – 20 April 2018), known professionally as Avicii (/əˈviːtʃi/, Swedish: [aˈvɪ̌tːɕɪ]), was a Swedish DJ, remixer and music producer. At the age of 16, Bergling began posting his remixes on electronic music forums, which led to his first record deal. He rose to prominence in 2011 with his single "Levels". His debut studio album, True (2013), blended electronic music with elements of multiple genres and received generally positive reviews. It peaked in the top 10 in more than 15 countries and topped international charts; the lead single, "Wake Me Up", topped most music markets in Europe and reached number four in the United States. In 2015, Bergling released his second studio album, Stories, and in 2017 he released an EP, Avīci (01). His catalog also included the singles "I Could Be the One" with Nicky Romero, "You Make Me", "X You", "Hey Brother", "Addicted to You", "The Days", "The Nights", "Waiting for Love", "Without You" and "Lonely Together". Bergling was nominated for a Grammy Award for his work on "Sunshine" with David Guetta in 2012 and "Levels" in 2013. Several music publications credit Bergling as among the DJs who ushered electronic music into Top 40 radio in the early 2010s. Bergling retired from touring in 2016, after several years of stress and poor mental health. On 20 April 2018, he committed suicide while on holiday in Muscat, Oman. In 2019, his third and final album, Tim, was released posthumously. (en)    <foaf:homepage rdf:resource="http://www.thechainsmokers.com/"/>
+    </artist:abstract>
+        <foaf:homepage rdf:resource="https://avicii.com/"/>
+    </artist:profile>
+
+<artist:profile rdf:about="http://dbpedia.org:8891/page/Phillip_Phillips)">
+    <artist:number>4</artist:number>
+    <artist:image>https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Phillip_Phillips_Live_at_Walmart_Soundcheck%2C_December_2013.jpg/220px-Phillip_Phillips_Live_at_Walmart_Soundcheck%2C_December_2013.jpg</artist:image>
+    <rdfs:label>Philip Philips</rdfs:label>
+    <artist:occupation>Singer-Songwriter</artist:occupation>
+    <artist:occupation>Actor</artist:occupation>
+    <artist:occupation>Guitarist</artist:occupation>
+    <artist:year>1990-09-20</artist:year>
+    <artist:genre>Folk Rock</artist:genre>
+    <artist:genre>Pop Rock</artist:genre>
+    <artist:hometown>Albany, Georgia</artist:hometown>
+    <artist:abstract>
+        Phillip LaDon Phillips Jr. (born September 20, 1990) is an American musician, singer-songwriter who rose to fame after winning the eleventh season of American Idol on May 23, 2012. His coronation song, "Home", became the best-selling song in American Idol history. His debut album The World from the Side of the Moon was released on November 19, 2012 and was on the Billboard Top 200 album chart for 61 weeks. It has been certified Platinum by the RIAA. The album included the single "Gone, Gone, Gone." He followed up with Behind the Light, in 2014 with the lead single "Raging Fire." His third album, Collateral, was released in 2018 and included the songs "Into the Wild" and "Magnetic." Phillips toured with John Mayer, Gavin DeGraw, the Goo Goo Dolls and has shared the stage with Bruce Springsteen. In the United States, Phillips has sold 7.5 million digital singles and has sold 2.7 million albums including album streaming equivalent units. He has over 600 million streams on Spotify and 1.2 billion streams on Pandora. (en)
+    </artist:abstract>
+    <foaf:homepage rdf:resource="http://www.phillipphillips.com/"/>
+</artist:profile>
+
+<artist:profile rdf:about="https://dbpedia.org/resource/Coldplay">
+    <artist:number>3</artist:number>
+    <artist:image>https://www.rukita.co/stories/wp-content/uploads/2022/10/eb285dd6-45d0-4f98-9ab5-aa7cc8075a98.jpeg</artist:image>
+    <rdfs:label>Coldplay</rdfs:label>
+    <artist:year>1966-01-01</artist:year>
+    <artist:members>Will Champion</artist:members>
+    <artist:members>Jonny Buckland</artist:members>
+    <artist:members>Chris Martin</artist:members>
+    <artist:members>Guy Berryman</artist:members>
+    <artist:members>Phil Harvey</artist:members>
+    <artist:genre>Pop Music</artist:genre>
+    <artist:genre>Pop Rock</artist:genre>
+    <artist:genre>Post-Britpop</artist:genre>
+    <artist:genre>Alternative Rock</artist:genre>
+    <artist:hometown>London</artist:hometown>
+    <artist:abstract>
+    Coldplay are a British rock band formed in London in 1996. They consist of vocalist and pianist Chris Martin, guitarist Jonny Buckland, bassist Guy Berryman, drummer Will Champion and creative director Phil Harvey. They met at University College London and began playing music together from 1996 to 1998, first calling themselves Pectoralz and then Starfish. After independently releasing an extended play, Safety (1998), Coldplay signed with Parlophone in 1999. The band's debut album, Parachutes (2000), included their breakthrough single "Yellow" and received a Brit Award for British Album of the Year, a Grammy Award for Best Alternative Music Album and a Mercury Prize nomination. Their second album, A Rush of Blood to the Head (2002), won the same accolades and included the singles "The Scientist" and "Clocks", with the latter winning a Grammy Award for Record of the Year. Noted for a troubled production, the band's third album X and Y (2005) was the best-selling of the year worldwide, an achievement later repeated its successor, Viva la Vida or Death and All His Friends (2008), which saw them explore new musical territory following the completion of what was considered a trilogy. It received a Grammy Award for Best Rock Album and their first Album of the Year nomination, while the title track became the first single by a British group to reach number-one in both the United Kingdom and United States in the 21st century. Since then, Coldplay further diversified their sound with the subsequent releases Mylo Xyloto (2011), Ghost Stories (2014), A Head Full of Dreams (2015), Everyday Life (2019) and Music of the Spheres (2021). Each album presented a unique theme and added new musical styles to the band's original repertoire, including electronica, ambient, pop, R and B, funk, classical, jazz fusion, and progressive rock. They are also known for "euphoric" live performances, which NME said are when the band "come alive and make the most sense". To celebrate their 20th anniversary in 2018, a career-spanning documentary directed by Mat Whitecross was premiered at selected cinemas, featuring previously unseen behind-the-scenes footage. With 100 million albums sold worldwide, Coldplay are the most successful band of the 21st century and one of the best-selling music acts of all time. According to Fuse, they are also the sixth-most awarded group in history. Other notable achievements include the sixth-highest-grossing tour of all time, three of the 50 highest-selling albums ever in the United Kingdom, the most number-one records in the country without ever missing the top, most nominations and wins for a band in Brit Awards history, and becoming the first British group to debut at number-one on the Billboard Hot 100. Coldplay are considered one of the most influential bands of the 21st century as well, with Forbes describing them as the standard for the current alternative scene. The Rock and Roll Hall of Fame included A Rush of Blood to the Head on their "200 Definitive Albums" list and the single "Yellow" is part of their "Songs That Shaped Rock and Roll" exhibition for being one of the most successful and important recordings in the industry. In spite of their popularity and impact, Coldplay have earned a reputation as . (en)    
+    </artist:abstract>
+    <foaf:homepage rdf:resource="http://coldplay.com/"/>
+</artist:profile>
+
+<artist:profile rdf:about="http://dbpedia.org:8891/resource/AJR_(band)">
+    <artist:number>2</artist:number>
+    <artist:image>https://static.wikia.nocookie.net/ajr-music/images/e/e1/Ajrband.jpg/revision/latest?cb=20210301031646</artist:image>
+    <rdfs:label>AJR</rdfs:label>
+    <artist:year>2005-01-01</artist:year>
+    <artist:members>Adam Met</artist:members>
+    <artist:members>Jack Met</artist:members>
+    <artist:members>Ryan Met</artist:members>
+    <artist:genre>Electro Pop</artist:genre>
+    <artist:genre>Electronic Music</artist:genre>
+    <artist:genre>Dubstep</artist:genre>
+    <artist:genre>Indie Pop</artist:genre>
+    <artist:hometown>Manhattan</artist:hometown>
+    <artist:abstract>
+        AJR is an American indie pop trio composed of multi-instrumentalist brothers Adam, Jack, and Ryan Met. Their most successful songs include "I'm Ready", "Sober Up", "Burn the House Down", "Way Less Sad", "100 Bad Days", "Weak", and "Bang!". In 2019, their third album Neotheater debuted at number 8 on the Billboard 200, and hit number one on the Top Rock Albums chart. "Bang!" is their highest-charting song and only song to reach the top 10, peaking at number 8 on the Billboard Hot 100 on January 22, 2021. The name "AJR" comes from the first initials of the three brothers, Adam, Jack, and Ryan. The band writes, produces, and mixes their music in the living room of their apartment in New York City. Their musical style has been described as "eclectic," combining elements of pop, doo-wop, electronic, and dubstep. (en)
+    </artist:abstract>
+    <foaf:homepage rdf:resource="http://ajrbrothers.com/"/>
+</artist:profile>
+         
+<artist:profile rdf:about="https://dbpedia.org/resource/The_Lumineers">
+    <artist:number>1</artist:number>
+    <artist:image>https://s1.ticketm.net/dam/a/771/a77c90ce-4634-4819-9744-c29d6c908771_1608341_TABLET_LANDSCAPE_LARGE_16_9.jpg</artist:image>
+    <rdfs:label>The Lumineers</rdfs:label>
+    <artist:year>2005-01-01</artist:year>
+    <artist:members>Wesley Schultz</artist:members>
+    <artist:members>Jeremiah Fraites</artist:members>
+    <artist:genre>Indie Folk</artist:genre>
+    <artist:genre>Americana</artist:genre>
+    <artist:genre>Folk Rock</artist:genre>
+    <artist:hometown>New Jersey</artist:hometown>
+    <artist:abstract>
+        The Lumineers are an American folk rock band based in Denver, Colorado. The founding members are Wesley Schultz (lead vocals, guitar) and Jeremiah Fraites (drums, percussion, piano). Schultz and Fraites began writing and performing together in Ramsey, New Jersey, in 2005. Cellist and vocalist Neyla Pekarek joined the band in 2010, and was a member until 2018. The Lumineers emerged as one of the most popular folk-rock/Americana artists during the revival of those genres, their popularity growing in the 2010s. The band's stripped back raw sound draws heavily from artists that influenced Schultz and Fraites such as Bruce Springsteen, Bob Dylan and Tom Petty. They are known for their energetic live shows and several international hit singles including "Ho Hey", "Stubborn Love", "Ophelia", "Angela" and "Cleopatra". The band has become one of the top touring bands in the United States and is also popular in other countries. The Lumineers have released four albums on American independent label Dualtone Records (Dine Alone in Canada and Decca/Universal worldwide). Their self-titled first album was released in 2012 and peaked at No. 2 on the U.S. Billboard 200. It has been certified triple platinum in the U.S. and Canada, platinum in the U.K. and Ireland, and gold in Australia. Their second album, Cleopatra, was released in 2016 and debuted at No. 1 on the Billboard 200, and also on the Canadian and British album charts. It is currently certified platinum in the U.S. Their third album, titled III, was released on September 13, 2019 and debuted at No. 2 on the Billboard 200. Their fourth album, Brightside, was released on January 14, 2022. The Lumineers have publicly campaigned to ban mobile phones at their concerts, providing a locking pouch for people to hold their phones in during live performances. (en)
+</artist:abstract>
+    <foaf:homepage rdf:resource="http://thelumineers.com/"/>
+</artist:profile>
+
+
+</rdf:RDF>
