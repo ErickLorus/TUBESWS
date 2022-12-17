@@ -68,7 +68,7 @@ $result = $sparql_jena->query($sparql_query);
         <center>
         <div class="row tm-mb-90">            
             <div class="col">
-            <iframe width="1008" height="567" src="<?=$music_video?>" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
+            <iframe width="1008" height="567" src="<?=$music_video ?>"title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
             </div>
             
         </div>

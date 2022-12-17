@@ -60,6 +60,7 @@ $result = $sparql_jena->query($sparql_query);
                 <?php 
                 foreach($result as $row){
                     $text = substr($row->summary, 0, 250);
+                    $maps = \EasyRdf\Graph::newAndLoad($row->link);
 
                     $detail = [
                       'no' => $row->no,
@@ -87,7 +88,9 @@ $result = $sparql_jena->query($sparql_query);
                      </div>                    
                         <div class="mb-4 d-flex flex-wrap">
                             <div class="mr-4 mb-2">
+                            <a href="hasilcari3.php?p=<?=$detail['no']?>"
                                 <span class="tm-text-gray-dark">Artist: </span><span class="tm-text-primary"><?=$detail['artist']?></span>
+                            </a>
                             <br>
                             <br>
                                 <span class="tm-text-gray-dark">Year: </span><span class="tm-text-primary"><?=$detail['year']?></span>
@@ -109,6 +112,13 @@ $result = $sparql_jena->query($sparql_query);
                             <h3 class="tm-text-gray-dark mb-3">About</h3>
                             <span class="tm-text-gray-dark"><?=$detail['summary']?></span>
                         </div>
+
+                        <!-- maps -->
+                        <div class="row tm-mb-90">            
+                <div class="col">
+                <iframe src width="600" height="450" src="<?=$maps ?>" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                </div>
+                
             </div>      
             </div> <!-- row -->
             <?php } ?>

@@ -11,6 +11,7 @@
     <artist:number>11</artist:number>
     <artist:image>https://assets.promediateknologi.com/crop/0x0:0x0/x/photo/2022/01/30/363396504.jpg</artist:image>
     <rdfs:label>The Beatles</rdfs:label>
+    <artist:name>The Beatles</artist:name>
     <artist:year>1970-01-01</artist:year>
     <artist:members>George Harrison</artist:members>
     <artist:members>John Lennon</artist:members>
@@ -31,6 +32,7 @@ The Beatles were an English rock band, formed in Liverpool in 1960, that compris
     <artist:number>10</artist:number>
     <artist:image>https://thumb.viva.co.id/media/frontend/thumbs3/2022/08/08/62f117f2765be-selena-gomez_665_374.jpeg</artist:image>
     <rdfs:label>Selena Gomez</rdfs:label>
+    <artist:name>Selena Gomez</artist:name>
     <artist:occupation>Singer</artist:occupation>
     <artist:occupation>Producer</artist:occupation>
     <artist:occupation>Songwriter</artist:occupation>
@@ -49,6 +51,7 @@ The Beatles were an English rock band, formed in Liverpool in 1960, that compris
     <artist:number>9</artist:number>
     <artist:image>https://www.biography.com/.image/t_share/MTgwNTA3MTcxMjg3NDc1NTYw/gettyimages-1230039869.jpg</artist:image>
     <rdfs:label>John Legend</rdfs:label>
+    <artist:name>John Roger Stephens</artist:name>
     <artist:occupation>Pianist</artist:occupation>
     <artist:occupation>Singer</artist:occupation>
     <artist:occupation>Songwriter</artist:occupation>
@@ -68,6 +71,7 @@ John Roger Stephens (born December 28, 1978), known professionally as John Legen
     <artist:number>9</artist:number>
     <artist:image>https://media.npr.org/assets/music/news/2010/06/eminem-52893634f7c035450a7b5ff2e040cacb4012395e-s1100-c50.jpg</artist:image>
     <rdfs:label>Eminem</rdfs:label>
+    <artist:name>Marshall Bruce Mathers III</artist:name>
     <artist:occupation>Rapper</artist:occupation>
     <artist:occupation>Singer</artist:occupation>
     <artist:occupation>Songwriter</artist:occupation>
@@ -89,6 +93,7 @@ Marshall Bruce Mathers III (born October 17, 1972), known professionally as Emin
     <artist:number>8</artist:number>
     <artist:image>https://cdn.britannica.com/83/149183-050-25913164/Queen.jpg</artist:image>
     <rdfs:label>Queen</rdfs:label>
+    <artist:name>Queen</artist:name>
     <artist:year>1970-01-01</artist:year>
     <artist:members>Brian May</artist:members>
     <artist:members>Roger Taylor</artist:members>
@@ -106,6 +111,7 @@ Queen are a British rock band formed in London in 1970. The band comprised Fredd
     <artist:number>7</artist:number>
     <artist:image>https://variety.com/wp-content/uploads/2020/04/John-Mayer.jpg</artist:image>
     <rdfs:label>John Mayer</rdfs:label>
+    <artist:name>John Clayton Mayer</artist:name>
     <artist:occupation>Singer</artist:occupation>
     <artist:occupation>Songwriter</artist:occupation>
     <artist:occupation>Guitarist</artist:occupation>
@@ -124,6 +130,7 @@ Queen are a British rock band formed in London in 1970. The band comprised Fredd
     <artist:number>6</artist:number>
     <artist:image>https://www.rollingstone.com/wp-content/uploads/2019/10/Labrinth.jpg</artist:image>
     <rdfs:label>Labrinth</rdfs:label>
+    <artist:name>Timothy Lee McKenzie</artist:name>
     <artist:occupation>Singer</artist:occupation>
     <artist:occupation>Record Producer</artist:occupation>
     <artist:occupation>Songwriter</artist:occupation>
@@ -145,6 +152,7 @@ Timothy Lee McKenzie (born 4 January 1989), better known by his stage name Labri
     <artist:number>5</artist:number>
     <artist:image>https://asset.kompas.com/crops/BDmNHEETxCK0f40lqgewcoC5rCU=/0x0:798x532/750x500/data/photo/2018/04/20/4082429218.jpg</artist:image>
     <rdfs:label>Avicii</rdfs:label>
+    <artist:name>Tim Bergling</artist:name>
     <artist:occupation>DJ</artist:occupation>
     <artist:occupation>Record Producer</artist:occupation>
     <artist:occupation>Songwriter</artist:occupation>
@@ -163,6 +171,7 @@ Timothy Lee McKenzie (born 4 January 1989), better known by his stage name Labri
     <artist:number>4</artist:number>
     <artist:image>https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Phillip_Phillips_Live_at_Walmart_Soundcheck%2C_December_2013.jpg/220px-Phillip_Phillips_Live_at_Walmart_Soundcheck%2C_December_2013.jpg</artist:image>
     <rdfs:label>Philip Philips</rdfs:label>
+    <artist:name>Phillip LaDon Phillips Jr.</artist:name>
     <artist:occupation>Singer-Songwriter</artist:occupation>
     <artist:occupation>Actor</artist:occupation>
     <artist:occupation>Guitarist</artist:occupation>
@@ -180,6 +189,7 @@ Timothy Lee McKenzie (born 4 January 1989), better known by his stage name Labri
     <artist:number>3</artist:number>
     <artist:image>https://www.rukita.co/stories/wp-content/uploads/2022/10/eb285dd6-45d0-4f98-9ab5-aa7cc8075a98.jpeg</artist:image>
     <rdfs:label>Coldplay</rdfs:label>
+    <artist:name>Coldplay</artist:name>
     <artist:year>1966-01-01</artist:year>
     <artist:members>Will Champion</artist:members>
     <artist:members>Jonny Buckland</artist:members>
@@ -201,6 +211,7 @@ Timothy Lee McKenzie (born 4 January 1989), better known by his stage name Labri
     <artist:number>2</artist:number>
     <artist:image>https://static.wikia.nocookie.net/ajr-music/images/e/e1/Ajrband.jpg/revision/latest?cb=20210301031646</artist:image>
     <rdfs:label>AJR</rdfs:label>
+    <artist:name>AJR</artist:name>
     <artist:year>2005-01-01</artist:year>
     <artist:members>Adam Met</artist:members>
     <artist:members>Jack Met</artist:members>
@@ -220,6 +231,7 @@ Timothy Lee McKenzie (born 4 January 1989), better known by his stage name Labri
     <artist:number>1</artist:number>
     <artist:image>https://s1.ticketm.net/dam/a/771/a77c90ce-4634-4819-9744-c29d6c908771_1608341_TABLET_LANDSCAPE_LARGE_16_9.jpg</artist:image>
     <rdfs:label>The Lumineers</rdfs:label>
+    <artist:name>The Lumineers</artist:name>
     <artist:year>2005-01-01</artist:year>
     <artist:members>Wesley Schultz</artist:members>
     <artist:members>Jeremiah Fraites</artist:members>

@@ -12,21 +12,21 @@ require 'vendor/autoload.php';
 \EasyRdf\RdfNamespace::set('music', 'https://example.org/schema/music');
 \EasyRdf\RdfNamespace::setDefault('og');
 $p = $_GET['p'];
-$sparql_jena = new \EasyRdf\Sparql\Client('http://localhost:3030/data_musik/sparql');
+$sparql_jena = new \EasyRdf\Sparql\Client('http://localhost:3030/data_artist/sparql');
 
 $sparql_query = '
-SELECT ?m ?title ?image ?artist ?producer ?genre ?year ?duration ?no ?summary WHERE {
-    ?m rdf:type music:song;
+SELECT ?m ?title ?image ?name ?year ?members ?genre ?hometown ?no ?abstract WHERE {
+    ?m rdf:type artist:profile;
        rdfs:label ?title;
-       music:image ?image;
-       music:artist ?artist;
-       music:duration ?duration;
-       music:year ?year;
-       music:genre ?genre;
-       music:producer ?producer;
-       music:summary ?summary;
+       artist:image ?image;
+       artist:name ?name;
+       artist:year ?year;
+       artist:members ?members;
+       artist:genre ?genre;
+       artist:hometown ?hometown;
+       artist:abstract ?abstract;
 
-       music:number ?no.
+       artist:number ?no.
   FILTER(?no = "'.$p.'").
 } ';
 $result = $sparql_jena->query($sparql_query);
@@ -63,18 +63,18 @@ $result = $sparql_jena->query($sparql_query);
 
                     $detail = [
                       'no' => $row->no,
-                      'judul' => $row->title,
+                      'headline' => $row->title,
                       'image' =>$row->image,
-                      'artist' =>$row->artist,
-                      'summary' =>$row->summary,
+                      'name' =>$row->name,
+                      'members' =>$row->members,
                       'duration' =>$row->duration,
                       'genre' =>$row->genre,
-                      'producer'=>$row->producer,
+                      'hometown'=>$row->home,
                       'year'=>$row->year,
                     ];
                 ?>      
                 <div class="col-xl-6 col-lg-7 col-md-6 col-sm-12">
-                    <h1 class="col-12 text-light"><?=$detail['judul']?></h1>
+                    <h1 class="col-12 text-light"><?=$detail['headline']?></h1>
                     <br>
                     <img src="<?=$detail['image']?>" style="width:500px;" alt="Image" class="img-fluid">
                 </div>
@@ -87,19 +87,21 @@ $result = $sparql_jena->query($sparql_query);
                      </div>                    
                         <div class="mb-4 d-flex flex-wrap">
                             <div class="mr-4 mb-2">
-                                <span class="tm-text-gray-dark">Artist: </span><span class="tm-text-primary"><?=$detail['artist']?></span>
+                            <a href="hasilcari3.php?p=<?=$detail['no']?>"
+                                <span class="tm-text-gray-dark">Artist: </span><span class="tm-text-primary"><?=$detail['name']?></span>
+                            </a>
                             <br>
                             <br>
                                 <span class="tm-text-gray-dark">Year: </span><span class="tm-text-primary"><?=$detail['year']?></span>
                             <br>
                             <br>
-                                <span class="tm-text-gray-dark">Duration : </span><span class="tm-text-primary"><?=$detail['duration']?></span>
+                                <span class="tm-text-gray-dark">Members : </span><span class="tm-text-primary"><?=$detail['members']?></span>
                             <br>
                             <br>
                                 <span class="tm-text-gray-dark">Genre : </span><span class="tm-text-primary"><?=$detail['genre']?></span>
                             <br>
                             <br>
-                                <span class="tm-text-gray-dark">Producer : </span><span class="tm-text-primary"><?=$detail['producer']?></span>
+                                <span class="tm-text-gray-dark">Hometown : </span><span class="tm-text-primary"><?=$detail['home']?></span>
                             </div>
                         </div>
                      </div>
@@ -107,7 +109,7 @@ $result = $sparql_jena->query($sparql_query);
                 <div class="row tm-mb-70">
             <div class="mb-4">
                             <h3 class="tm-text-gray-dark mb-3">About</h3>
-                            <span class="tm-text-gray-dark"><?=$detail['summary']?></span>
+                            <span class="tm-text-gray-dark"><?=$detail['abstract']?></span>
                         </div>
             </div>      
             </div> <!-- row -->
@@ -115,6 +117,7 @@ $result = $sparql_jena->query($sparql_query);
     </div> <!-- container-fluid, tm-container-content -->
 
     <?php include 'footer.php'; ?>
+    
     
     <script src="js/plugins.js"></script>
     <script>
