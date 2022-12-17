@@ -12,21 +12,24 @@ require 'vendor/autoload.php';
 \EasyRdf\RdfNamespace::set('music', 'https://example.org/schema/music');
 \EasyRdf\RdfNamespace::setDefault('og');
 $p = $_GET['p'];
-$sparql = new \EasyRdf\Sparql\Client('http://dbpedia.org/sparql');
+$sparql_jena = new \EasyRdf\Sparql\Client('http://localhost:3030/data_musik/sparql');
 
-    $sparql_query = $sparql->query(
-      'SELECT DISTINCT (COUNT(*) AS ?res)   WHERE {' .
-        ' ?artist rdf:type dbo:Band .' .
-        ' ?artist dbo:abstract ?desc .' .
-        ' ?artist dbp:activeYearsStartYear ?startYear .' .
-        ' ?artist dbp:bandMember ?bandMember .' .
-        ' ?artist dbp:hometown ?hometown .' .
-        '}'
-    );
+$sparql_query = '
+SELECT ?m ?title ?image ?artist ?producer ?genre ?year ?duration ?no ?summary WHERE {
+    ?m rdf:type music:song;
+       rdfs:label ?title;
+       music:image ?image;
+       music:artist ?artist;
+       music:duration ?duration;
+       music:year ?year;
+       music:genre ?genre;
+       music:producer ?producer;
+       music:summary ?summary;
 
-    foreach ($spaqrl_query as $res) {
-      $spaqrl_query = $res->res;
-    }
+       music:number ?no.
+  FILTER(?no = "'.$p.'").
+} ';
+$result = $sparql_jena->query($sparql_query);
 ?>
 
 <!DOCTYPE html>
