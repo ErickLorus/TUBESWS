@@ -1,4 +1,3 @@
-
 <?php
 require 'vendor/autoload.php';
 
@@ -32,8 +31,8 @@ SELECT ?m ?title ?image ?artist ?producer ?genre ?year ?duration ?link ?no ?summ
 } ';
 $result = $sparql_jena->query($sparql_query);
 
-
 ?>
+
 <!DOCTYPE html>
 <html lang="en">
 <head>

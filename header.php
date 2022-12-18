@@ -1,21 +1,36 @@
-<nav class="navbar navbar-expand-lg">
-        <div class="container-fluid">
-            <img src="img/logo.png" alt="logo" width="40" height="40">
-            <a class="navbar-brand text-light font-weight-bold" href="index.php" >
-                 Library Song
-            </a>
-            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-                <i class="fas fa-bars"></i>
-            </button>
-            <div class="collapse navbar-collapse" id="navbarSupportedContent">
-            <ul class="navbar-nav ml-auto mb-2 mb-lg-0">
-                <li class="nav-item">
-                    <a class="nav-link nav-link-1 active" aria-current="page" href="index.php">Top Artist</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link nav-link-3" href="about.php">About</a>
-                </li>
-            </ul>
+      <!-- header section start -->
+      <div class="header_section">
+         <div class="header_main">
+            <div class="mobile_menu">
             </div>
-        </div>
-    </nav>
+            <div class="container-fluid">
+               <div class="logo"><a href="index.php"><img src="images/logo.png"></a></div>
+               <div class="menu_main">
+                  <ul>
+                     <li class="active"><a href="index.php">Home</a></li>
+                     <li><a href="about.php">About</a></li>
+                  </ul>
+               </div>
+            </div>
+         </div>
+         <!-- banner section start -->
+         <div class="banner_section layout_padding">
+            <div id="carouselExampleSlidesOnly" class="carousel slide" data-ride="carousel">
+               <div class="carousel-inner">
+                  <div class="carousel-item active">
+                     <div class="container">
+                        <h1 class="banner_taital">Lib-Song</h1>
+                        <p class="banner_text">Lib Song is a digital music library that gives you access to millions of songs. There are many variations of music available, we can be your favourite music library </p>
+                        <div class= "searchdiv">
+                        <form class="read_bt" id="search-form" method="POST" role="search" action="hasilcari.php">
+                        <input type="address" name="judul" class="search-control" type="search" placeholder="Search" aria-label="Search">
+        </form>
+   </div>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>
+         <!-- banner section end -->
+      </div>
+      <!-- header section end -->

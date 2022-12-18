@@ -1,62 +1,97 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>About LibSong</title>
-    <link rel="stylesheet" href="css/bootstrap.min.css">
-    <link rel="stylesheet" href="fontawesome/css/all.min.css">
-    <link rel="stylesheet" href="css/templatemo-style.css">
+   <head>
+      <meta charset="utf-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+      <meta name="viewport" content="width=device-width, initial-scale=1">
+      <meta name="viewport" content="width=device-width, initial-scale=1">
+      <meta name="viewport" content="initial-scale=1, maximum-scale=1">
+      <title>About</title>
+      <meta name="keywords" content="">
+      <meta name="description" content="">
+      <meta name="author" content="">
+      <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
+      <link rel="stylesheet" type="text/css" href="css/style.css">
+      <link rel="stylesheet" href="css/responsive.css">
+      <link rel="icon" href="images/fevicon.png" type="image/gif" />
+      <link rel="stylesheet" href="css/jquery.mCustomScrollbar.min.css">
+      <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css">
+      <link href="https://fonts.googleapis.com/css?family=Poppins:400,700|Righteous&display=swap" rel="stylesheet"> 
+      <link rel="stylesheet" href="css/owl.carousel.min.css">
+      <link rel="stylesheet" href="css/owl.theme.default.min.css">
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.5/jquery.fancybox.min.css" media="screen">
+   </head>
+   <body>
+      <!-- header section start -->
+ 
+      <?php include 'header.php'; ?>
 
-</head>
-<body>
-    <!-- Page Loader -->
-    <div id="loader-wrapper">
-        <div id="loader"></div>
+      <!-- header section end -->
+      <!-- about section start -->
+      <div class="about_section layout_padding">
+         <div class="container-fluid">
+            <div class="row">
+               <div class="col-md-6">
+                  <div class="about_taital_main">
+                     <h1 class="about_taital">About Us</h1>
+                     <p class="about_text">LibSong or Library Song is a digital music library that gives you access to millions of songs. There are many variations of music available, we can be your favourite music library. We provide the best and latest hits for you to check out and recommendation for you to listen to every single day. 
+                        <br><br><br><br>
+                     </p>
+                     <div class="anggota">
+                     <h1 class="about_anggota"> Anggota Kelompok 8: </h1>
+                           <ul>
+                              <li> Imam Hatris Ekaputra (211402151) </li>
+                              <li> Erick Lorus - 211402070 </li>
+                              <li> Muhammad Arya Ananda (211402106) </li>
+                              <li> Maria Anggraini Natio (211402052) </li>
+                              <li> Geboy Donny Aurora Sinaga (211402001) </li>
+                           </ul>
+                     </div>
 
-        <div class="loader-section section-left"></div>
-        <div class="loader-section section-right"></div>
-
-    </div>
-
-    <?php include 'header.php'; ?>
-    <div class="tm-hero d-flex justify-content-center align-items-center" data-parallax="scroll">
-        <form class="d-flex tm-search-form" id="search-form" method="POST" role="search" action="hasilcari.php">
-            <input type="address" name="judul" class="form-control tm-search-input" type="search" placeholder="Search" aria-label="Search">
-            <button class="btn btn-outline-success tm-search-btn-outline-primary" type="submit">
-                <i class="fas fa-search"></i>
-            </button>
-        </form>
-    </div>
-
-    <div class="container-fluid tm-mt-60">
-        <div class="row mb-4">
-            <h2 class="col-12 text-light">
-                About LibSong
-            </h2>
-        </div>
-        <div class="row tm-mb-74 tm-row-1640">            
-            <div class="col-lg-5 col-md-6 col-12 mb-3">
-                <img src="img/about.jpg" alt="Image" class="img-fluid">
+                  </div>
+               </div>
+               <div class="col-md-6 padding_right_0">
+                  <div><img src="images/plant.png" class="about_img"></div>
+               </div>
             </div>
-            <div class="col-lg-7 col-md-6 col-12">
-                <div class="tm-about-img-text">
-                    <p class="mb-4">
-                  You may support TemplateMo website by making <a href="https://paypal.me/templatemo" target="_parent" rel="sponsored">a small contribution</a> via PayPal. This will be helpful for us. We hope you like this Catalog-Z photo / video template for your website. We are making new templates regularly for you. Please come back and visit our <a rel="sponsored" href="https://templatemo.com" target="_parent">TemplateMo website</a> again. </p>
-                    <p>
-                        Credits go to Pexels and Unsplash for photos and video used in this template. Catalog-Z is free <a rel="sponsored" href="https://v5.getbootstrap.com/">Bootstrap 5</a> Alpha 2 HTML Template designed for video and photo websites.</p> 
-                    <p>You are <b>allowed</b> to use this template for your commercial or non-commercial websites. You can integrate it with any kind of CMS website. You are <b>NOT allowed</b> to redistribute the downloadable template ZIP file on any template collection website. Please <a rel="nofollow" href="https://templatemo.com/contact" target="_parent">contact us</a> for more information. Thank you.</p>
-                </div>                
+         </div>
+      </div>
+      <!-- about section end -->
+      <!-- footer section start -->
+      <div class="footer_section layout_padding">
+         <div class="container">
+            <div class="input_btn_main">
+               <input type="text" class="mail_text" placeholder="Enter your email" name="Enter your email">
+               <div class="subscribe_bt"><a href="#">Subscribe</a></div>
             </div>
-        </div>
-
-    <?php include 'footer.php'; ?>
-    
-    <script src="js/plugins.js"></script>
-    <script>
-        $(window).on("load", function() {
-            $('body').addClass('loaded');
-        });
-    </script>
-</body>
+            <div class="location_main">
+               <div class="call_text"><img src="images/call-icon.png"></div>
+               <div class="call_text"><a href="#">Call +61 1234567890</a></div>
+               <div class="call_text"><img src="images/mail-icon.png"></div>
+               <div class="call_text"><a href="#">kelompok8@gmail.com</a></div>
+            </div>
+            <div class="social_icon">
+               <ul>
+                  <li><a href="#"><img src="images/fb-icon.png"></a></li>
+                  <li><a href="#"><img src="images/twitter-icon.png"></a></li>
+                  <li><a href="#"><img src="images/linkedin-icon.png"></a></li>
+                  <li><a href="#"><img src="images/instagram-icon.png"></a></li>
+               </ul>
+            </div>
+         </div>
+      </div>
+      <!-- footer section end -->
+      <!-- Javascript files-->
+      <script src="js/jquery.min.js"></script>
+      <script src="js/popper.min.js"></script>
+      <script src="js/bootstrap.bundle.min.js"></script>
+      <script src="js/jquery-3.0.0.min.js"></script>
+      <script src="js/plugin.js"></script>
+      <!-- sidebar -->
+      <script src="js/jquery.mCustomScrollbar.concat.min.js"></script>
+      <script src="js/custom.js"></script>
+      <!-- javascript --> 
+      <script src="js/owl.carousel.js"></script>
+      <script src="https:cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.5/jquery.fancybox.min.js"></script>    
+   </body>
 </html>

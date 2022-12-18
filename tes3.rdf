@@ -5,7 +5,7 @@
          xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
          xmlns:owl="http://www.w3.org/2002/07/owl#"
          xmlns:dc="http://purl.org/dc/terms/"
-         xmlns:artist="https://example.org/schema/artist">
+         xmlns:artist="https://example.org/schema/artist"
          xmlns:music="https://example.org/schema/music">
 
     <artist:profile rdf:about="https://id.wikipedia.org/wiki/Andmesh_Kamaleng">
@@ -404,7 +404,7 @@
 
 <music:song rdf:about="https://genius.com/The-lumineers-ho-hey-lyrics">
     <music:number>26</music:number>
-    <music:image>https://t2.genius.com/unsafe/288x292/https%3A%2F%2Fimages.genius.com%2F225d6cb0fef34cc080a51fefb2384c8b.599x607x1.jpg</music:image>
+    <music:image>https://i.scdn.co/image/ab67616d0000b2734241433fb84b10663492c0e3</music:image>
     <rdfs:label>Ho Hey</rdfs:label>
     <music:duration>
     2:41
@@ -421,7 +421,7 @@
 
 <music:song rdf:about="https://genius.com/Ajr-the-good-part-lyrics">
     <music:number>25</music:number>
-    <music:image>https://t2.genius.com/unsafe/263x263/https%3A%2F%2Fimages.genius.com%2Fcd0d9a3dc297f083c981b8517d212dae.1000x1000x1.jpg</music:image>
+    <music:image>https://i.scdn.co/image/ab67616d0000b27335a22744330810f0cca97210</music:image>
     <rdfs:label>The Good Part</rdfs:label>
     <music:duration>
     3:48
@@ -442,7 +442,7 @@
 
 <music:song rdf:about="http://dbpedia.org:8891/resource/Love_Grows_(Where_My_Rosemary_Goes)">
     <music:number>24</music:number>
-    <music:image>https://t2.genius.com/unsafe/288x284/https%3A%2F%2Fimages.genius.com%2Fe804d53327bde58390dd7eae881dec44.800x790x1.png</music:image>
+    <music:image>https://i.scdn.co/image/ab67616d0000b2739a0011cc9d31cf969b656905</music:image>
     <rdfs:label>Love Grows</rdfs:label>
     <music:duration>
     2:48
@@ -458,7 +458,7 @@
 
 <music:song rdf:about="https://dbpedia.org/resource/Over_the_Rainbow">
     <music:number>23</music:number>
-    <music:image>https://t2.genius.com/unsafe/288x288/https%3A%2F%2Fimages.genius.com%2F5d8646a0b9d0154b446db6b05fc023c5.320x320x1.jpg</music:image>
+    <music:image>https://i.scdn.co/image/ab67616d0000b273ef0488bcf54757c35e52e611</music:image>
     <rdfs:label>Over the Rainbow</rdfs:label>
     <music:duration>
     3:31
@@ -476,7 +476,7 @@
 
 <music:song rdf:about="https://genius.com/Keane-somewhere-only-we-know-lyrics">
     <music:number>22</music:number>
-    <music:image>https://t2.genius.com/unsafe/288x288/https%3A%2F%2Fimages.genius.com%2Fdc239192a6e87f4bc863cb33d40271bb.1000x1000x1.jpg</music:image>
+    <music:image>https://i.scdn.co/image/ab67616d0000b273045d0a38105fbe7bde43c490</music:image>
     <rdfs:label>Somewhere only we know</rdfs:label>
     <music:duration>
     3:59
@@ -497,7 +497,7 @@
 
 <music:song rdf:about="https://dbpedia.org/resource/Gone,_Gone,_Gone">
     <music:number>21</music:number>
-    <music:image>https://t2.genius.com/unsafe/288x288/https%3A%2F%2Fimages.genius.com%2Fb9ec569565cc6299816e0d5ed2165c8f.1000x1000x1.png</music:image>
+    <music:image>https://i.scdn.co/image/ab67616d0000b273d9009cc16eddbc6664508cd8</music:image>
     <rdfs:label>Gone, Gone, Gone</rdfs:label>
     <music:duration>
     4:13
@@ -513,7 +513,7 @@
 
 <music:song rdf:about="https://genius.com/Hindia-evaluasi-lyrics">
     <music:number>20</music:number>
-    <music:image>https://t2.genius.com/unsafe/146x146/https%3A%2F%2Fimages.genius.com%2F72671899c818722a9a6b631eedcffb1b.1000x1000x1.jpg</music:image>
+    <music:image>https://i.scdn.co/image/ab67616d0000b273d623688488865906052ef96b</music:image>
     <rdfs:label>Evaluasi</rdfs:label>
     <music:duration>
     3:17
@@ -530,7 +530,7 @@
 
 <music:song rdf:about="https://genius.com/Ari-lasso-hampa-lyrics">
     <music:number>19</music:number>
-    <music:image>https://t2.genius.com/unsafe/146x146/https%3A%2F%2Fimages.genius.com%2F313d19d67b0e86dccaaad3597feb1cae.450x450x1.jpg</music:image>
+    <music:image>https://i.scdn.co/image/ab67616d0000b27311c348a4c084b1add0c8ad1c</music:image>
     <rdfs:label>Hampa</rdfs:label>
     <music:duration>
     4:59
@@ -547,7 +547,7 @@
 
 <music:song rdf:about="https://genius.com/Anji-dia-lyrics">
     <music:number>18</music:number>
-    <music:image>https://t2.genius.com/unsafe/146x146/https%3A%2F%2Fimages.genius.com%2F0b66681bf9251d3276311a89528f5754.1000x1000x1.jpg</music:image>
+    <music:image>https://i.scdn.co/image/ab67616d0000b273866690f3c76fec4941fd079e</music:image>
     <rdfs:label>Dia</rdfs:label>
     <music:duration>
     4:48
@@ -564,7 +564,7 @@
 
 <music:song rdf:about="https://genius.com/Andra-and-the-backbone-sempurna-lyrics">
     <music:number>17</music:number>
-    <music:image>https://t2.genius.com/unsafe/146x146/https%3A%2F%2Fimages.genius.com%2Faabf4b7d67713bed262648b9665bcc39.1000x1000x1.jpg</music:image>
+    <music:image>https://i.scdn.co/image/ab67616d0000b273e4c67d735638f0f627b913f8</music:image>
     <rdfs:label>Sempurna</rdfs:label>
     <music:duration>
     3:11
@@ -581,7 +581,7 @@
 
 <music:song rdf:about="https://genius.com/Andmesh-hanya-rindu-lyrics">
     <music:number>16</music:number>
-    <music:image>https://t2.genius.com/unsafe/146x146/https%3A%2F%2Fimages.genius.com%2F9401e481eea505b65a3b0b624ebd8b7b.1000x1000x1.jpg</music:image>
+    <music:image>https://i.scdn.co/image/ab67616d0000b273ef434f48a937abcdf92b309d</music:image>
     <rdfs:label>Hanya Rindu</rdfs:label>
     <music:duration>
     4:12
@@ -598,7 +598,7 @@
 
 <music:song rdf:about="https://genius.com/Fourtwnty-zona-nyaman-lyrics">
     <music:number>15</music:number>
-    <music:image>https://t2.genius.com/unsafe/146x146/https%3A%2F%2Fimages.genius.com%2F25146c74085107d9a7bb454b963d07b9.600x600x1.png</music:image>
+    <music:image>https://i.scdn.co/image/ab67616d0000b27395d6a28dfd9d8da037c142df</music:image>
     <rdfs:label>Zona Nyaman</rdfs:label>
     <music:duration>
     4:13
@@ -615,7 +615,7 @@
 
 <music:song rdf:about="https://genius.com/Nidji-laskar-pelangi-lyrics">
     <music:number>14</music:number>
-    <music:image>https://t2.genius.com/unsafe/146x146/https%3A%2F%2Fimages.genius.com%2F67f048404279743188805a1fe23722d5.268x268x1.jpg</music:image>
+    <music:image>https://i.scdn.co/image/ab67616d0000b273c0c5c0e380e47b5e4898ded5</music:image>
     <rdfs:label>Laskar Pelangi</rdfs:label>
     <music:duration>
     5:07
@@ -632,7 +632,7 @@
 
 <music:song rdf:about="https://genius.com/Tulus-manusia-kuat-lyrics">
     <music:number>13</music:number>
-    <music:image>https://t2.genius.com/unsafe/146x146/https%3A%2F%2Fimages.genius.com%2F7c0c0a8bf024611c638fa18137a5e039.1000x1000x1.jpg</music:image>
+    <music:image>https://i.scdn.co/image/ab67616d00001e027c52c7f7d1da8625e4376795</music:image>
     <rdfs:label>Manusia Kuat</rdfs:label>
     <music:duration>
     3:05
@@ -650,7 +650,7 @@
 
 <music:song rdf:about="https://genius.com/The-chainsmokers-and-coldplay-something-just-like-this-lyrics">
     <music:number>12</music:number>
-    <music:image>https://t2.genius.com/unsafe/146x146/https%3A%2F%2Fimages.genius.com%2Fccc4ed75531c7d3ad9085317e9554a3a.1000x1000x1.jpg</music:image>
+    <music:image>https://i.scdn.co/image/ab67616d0000b273f79b7f08426e2899a832d3e6</music:image>
     <rdfs:label>Something just like this</rdfs:label>
     <music:duration>
     4:08
@@ -675,7 +675,7 @@
 
 <music:song rdf:about="https://genius.com/Avicii-the-nights-lyrics">
     <music:number>11</music:number>
-    <music:image>https://t2.genius.com/unsafe/146x146/https%3A%2F%2Fimages.genius.com%2F21d81a42bd2549d9c18f7389a13acb8b.1000x1000x1.png</music:image>
+    <music:image>https://i.scdn.co/image/ab67616d00001e02660ee24281a547103f466ff5</music:image>
     <rdfs:label>The Nights</rdfs:label>
     <music:duration>
     2:44
@@ -692,7 +692,7 @@
 
 <music:song rdf:about="https://genius.com/Coldplay-fix-you-lyrics">
     <music:number>10</music:number>
-    <music:image>https://t2.genius.com/unsafe/146x146/https%3A%2F%2Fimages.genius.com%2F6c0d5368ca48b9e35fd2893b2dc21605.1000x1000x1.png</music:image>
+    <music:image>https://i.scdn.co/image/ab67616d0000b2734e0362c225863f6ae2432651</music:image>
     <rdfs:label>Fix You</rdfs:label>
     <music:duration>
     4:48
@@ -710,7 +710,7 @@
 
 <music:song rdf:about="https://genius.com/Coldplay-viva-la-vida-lyrics">
     <music:number>9</music:number>
-    <music:image>https://t2.genius.com/unsafe/146x146/https%3A%2F%2Fimages.genius.com%2F479060afdfd52587cd88764e817fc7fa.600x600x1.jpg</music:image>
+    <music:image>https://i.scdn.co/image/ab67616d0000b273e21cc1db05580b6f2d2a3b6e</music:image>
     <rdfs:label>Viva la Vida</rdfs:label>
     <music:duration>
     4:48
@@ -727,7 +727,7 @@
 
 <music:song rdf:about="https://genius.com/Labrinth-jealous-lyrics">
     <music:number>8</music:number>
-    <music:image>https://t2.genius.com/unsafe/245x245/https%3A%2F%2Fimages.genius.com%2F0b4dcf6cef4fe4bc5cc99a5f5f6ea1fe.1000x1000x1.jpg</music:image>
+    <music:image>https://i.scdn.co/image/ab67616d0000b273d6903dd74546f02f4a54edbc</music:image>
     <rdfs:label>Jealous</rdfs:label>
     <music:duration>
     4:48
@@ -744,7 +744,7 @@
 
 <music:song rdf:about="https://genius.com/John-mayer-youre-gonna-live-forever-in-me-lyrics">
     <music:number>7</music:number>
-    <music:image>https://t2.genius.com/unsafe/288x288/https%3A%2F%2Fimages.genius.com%2F54aea343a17595ffe78abe34c08838c6.1000x1000x1.jpg</music:image>
+    <music:image>https://i.scdn.co/image/ab67616d0000b273e837bfc86385e5386bfc315d</music:image>
     <rdfs:label>You're gonna live forever in me</rdfs:label>
     <music:duration>
     3:11
@@ -763,7 +763,7 @@
 
 <music:song rdf:about="https://dbpedia.org/resource/Bohemian_Rhapsody">
     <music:number>6</music:number>
-    <music:image>https://t2.genius.com/unsafe/288x288/https%3A%2F%2Fimages.genius.com%2Fff9ddef65ab95da61354ce587748e2e9.600x600x1.png</music:image>
+    <music:image>https://i.scdn.co/image/ab67616d0000b273e8b066f70c206551210d902b</music:image>
     <rdfs:label>Bohemian Rhapsody</rdfs:label>
     <music:duration>
     5:59
@@ -780,7 +780,7 @@
 
 <music:song rdf:about="https://dbpedia.org/resource/The_Ringer_(song)">
     <music:number>5</music:number>
-    <music:image>https://cdn.vox-cdn.com/thumbor/eAPqu9c8FrPrIFvq-fXA1nN2c9A=/0x0:3000x2000/1200x800/filters:focal(1819x398:2299x878)/cdn.vox-cdn.com/uploads/chorus_image/image/58020429/Eminem2017_Getty_Ringer.0.jpg</music:image>
+    <music:image>https://i.scdn.co/image/ab67616d0000b273e4073def0c03a91e3fceaf73</music:image>
     <rdfs:label>The Ringer</rdfs:label>
     <music:duration>
     2:44
@@ -797,7 +797,7 @@
 
 <music:song rdf:about="https://dbpedia.org/resource/All_of_Me_(John_Legend_song)">
     <music:number>4</music:number>
-    <music:image>http://mannequintheband.com/wp-content/uploads/2015/01/John-Legend-All-Of-Me2.jpg</music:image>
+    <music:image>https://i.scdn.co/image/ab67616d0000b27394c9217a398f5174757c0c78</music:image>
     <rdfs:label>All of Me</rdfs:label>
     <music:duration>
     5:07
@@ -814,7 +814,7 @@
 
 <music:song rdf:about="https://dbpedia.org/resource/Birthday_(Selena_Gomez_song)">
     <music:number>3</music:number>
-    <music:image>https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Flickr_-_moses_namkung_-_M.I.A._7_NR.jpg/300px-Flickr_-_moses_namkung_-_M.I.A._7_NR.jpg</music:image>
+    <music:image>https://i.scdn.co/image/ab67616d0000b2730e36690135fa1a30d048e604</music:image>
     <rdfs:label>Birthday</rdfs:label>
     <music:duration>
     3:33
@@ -831,7 +831,7 @@
 
 <music:song rdf:about="https://dbpedia.org/resource/Baby_(Justin_Bieber_song)">
     <music:number>2</music:number>
-    <music:image>https://i.pinimg.com/originals/c0/fa/62/c0fa6262ebc7c716568932091f18df6c.jpg</music:image>
+    <music:image>https://i.scdn.co/image/ab67616d0000b2739707c3215a3410cf33eb7623</music:image>
     <rdfs:label>Baby</rdfs:label>
     <music:duration>
     3:40
@@ -848,7 +848,7 @@
 
 <music:song rdf:about="https://dbpedia.org/resource/Birthday_(Beatles_song)">
     <music:number>1</music:number>
-    <music:image>https://i.ytimg.com/vi/wNcJ3jYOQGg/maxresdefault.jpg</music:image>
+    <music:image>https://i.scdn.co/image/ab67616d0000b2739daf50d073fd6e7ad9bc0076</music:image>
     <rdfs:label>Birthday</rdfs:label>
     <music:duration>
     2:44
