@@ -75,11 +75,27 @@ $result = $sparql_jena->query($sparql_query);
    <body>
 
    <?php include 'header.php'; ?>
+            <!-- banner section start -->
+            <div class="banner_section layout_padding">
+            <div id="carouselExampleSlidesOnly" class="carousel slide" data-ride="carousel">
+               <div class="carousel-inner">
+                  <div class="carousel-item active">
+                     <div class="container">
+                        <h1 class="banner_taital">Lib-Song</h1>
+                        <p class="banner_text">Lib Song is a digital music library that gives you access to millions of songs. There are many variations of music available, we can be your favourite music library <br><br></p>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>
+         <!-- banner section end -->
+      </div>
+      <!-- header section end -->
 
       <!-- about section start -->
       <div class="about_section layout_padding">
          <div class="container">
-            <h1 class="services_taital">Your Song</h1>
+            <h1 class="services_taital"><br><br> Your Song</h1>
             <p class="services_text">Here's a more detailed information about the song you are searching about. It's accompanied with details like artist, year, duration, genre, duration, and you can also check out their music video on youtube.</p>
          </div>
 </div>
