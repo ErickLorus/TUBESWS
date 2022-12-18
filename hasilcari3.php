@@ -10,25 +10,24 @@ require 'vendor/autoload.php';
 \EasyRdf\RdfNamespace::set('rdfs', 'http://www.w3.org/2000/01/rdf-schema#');
 \EasyRdf\RdfNamespace::set('schema', 'https://example.org/schema/');
 \EasyRdf\RdfNamespace::set('music', 'https://example.org/schema/music');
+\EasyRdf\RdfNamespace::set('artist', 'https://example.org/schema/artist');
 \EasyRdf\RdfNamespace::setDefault('og');
 $p = $_GET['p'];
-$sparql_jena = new \EasyRdf\Sparql\Client('http://localhost:3030/data_artist/sparql');
+$sparql_jena = new \EasyRdf\Sparql\Client('http://localhost:3030/data_musik/sparql');
 
 $sparql_query = '
-SELECT ?m ?title ?image ?name ?year ?members ?genre ?hometown ?no ?abstract WHERE {
+SELECT ?m ?title ?image ?name ?year ?genre ?hometown ?abstract ?link WHERE {
     ?m rdf:type artist:profile;
        rdfs:label ?title;
        artist:image ?image;
        artist:name ?name;
        artist:year ?year;
-       artist:members ?members;
        artist:genre ?genre;
        artist:hometown ?hometown;
        artist:abstract ?abstract;
-
-       artist:number ?no.
-  FILTER(?no = "'.$p.'").
-} ';
+       foaf:maps ?link;
+  FILTER(?title = "'.$p.'").
+}LIMIT 1';
 $result = $sparql_jena->query($sparql_query);
 ?>
 
@@ -59,58 +58,56 @@ $result = $sparql_jena->query($sparql_query);
             <div class="row tm-mb-70">     
                 <?php 
                 foreach($result as $row){
-                    $text = substr($row->summary, 0, 250);
+                    $text = substr($row->abstract, 0, 300);
+                    $music_video = \EasyRdf\Graph::newAndLoad($row->link);
 
                     $detail = [
-                      'no' => $row->no,
-                      'headline' => $row->title,
+                      'm' => $row->m,
+                      'title' => $row->title,
                       'image' =>$row->image,
                       'name' =>$row->name,
-                      'members' =>$row->members,
-                      'duration' =>$row->duration,
                       'genre' =>$row->genre,
-                      'hometown'=>$row->home,
+                      'hometown'=>$row->hometown,
                       'year'=>$row->year,
+                      'link'=>$row->link,
+                      'abstract'=>$text,
                     ];
                 ?>      
                 <div class="col-xl-6 col-lg-7 col-md-6 col-sm-12">
-                    <h1 class="col-12 text-light"><?=$detail['headline']?></h1>
+                    <h1 class="col-12 text-light"><?=$detail['title']?></h1>
                     <br>
                     <img src="<?=$detail['image']?>" style="width:500px;" alt="Image" class="img-fluid">
                 </div>
                 <div class="col-xl-4 col-lg-5 col-md-6 col-sm-12">
-                    <br><br><br>
-                        <div class="text-center mb-5">
-                        <form class="d-flex tm-search-form" id="search-form" method="POST" role="search" action="tes.php">
-                           <a href="video-detail.php?p=<?=$detail['no']?>" class="btn btn-primary tm-btn-big">Play MV</a>
-                        </form>
-                     </div>                    
+                    <br><br><br>                 
                         <div class="mb-4 d-flex flex-wrap">
                             <div class="mr-4 mb-2">
-                            <a href="hasilcari3.php?p=<?=$detail['no']?>"
+
                                 <span class="tm-text-gray-dark">Artist: </span><span class="tm-text-primary"><?=$detail['name']?></span>
-                            </a>
+
                             <br>
                             <br>
-                                <span class="tm-text-gray-dark">Year: </span><span class="tm-text-primary"><?=$detail['year']?></span>
-                            <br>
-                            <br>
-                                <span class="tm-text-gray-dark">Members : </span><span class="tm-text-primary"><?=$detail['members']?></span>
+                                <span class="tm-text-gray-dark">Start Year: </span><span class="tm-text-primary"><?=$detail['year']?></span>
                             <br>
                             <br>
                                 <span class="tm-text-gray-dark">Genre : </span><span class="tm-text-primary"><?=$detail['genre']?></span>
                             <br>
                             <br>
-                                <span class="tm-text-gray-dark">Hometown : </span><span class="tm-text-primary"><?=$detail['home']?></span>
+                                <span class="tm-text-gray-dark">Hometown : </span><span class="tm-text-primary"><?=$detail['hometown']?></span>
+                            <br>
+                            <br>
+                                <h3 class="tm-text-gray-dark mb-3">About</h3>
+                                <span class="tm-text-gray-dark"><?=$detail['abstract']?><a href="<?=$detail['link']?>">....Find More</a></span>
                             </div>
                         </div>
-                     </div>
+                        <div class="mb-4">
+                        
+                        <iframe src="<?=$music_video ?>" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                        </div>
+                     
                 </div>  
                 <div class="row tm-mb-70">
-            <div class="mb-4">
-                            <h3 class="tm-text-gray-dark mb-3">About</h3>
-                            <span class="tm-text-gray-dark"><?=$detail['abstract']?></span>
-                        </div>
+            
             </div>      
             </div> <!-- row -->
             <?php } ?>
