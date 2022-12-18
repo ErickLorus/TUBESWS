@@ -102,8 +102,6 @@ $result = $sparql_jena->query($sparql_query);
 
                <?php 
                 foreach($result as $row){
-                    $text = substr($row->summary, 0, 250);
-                    // $maps = \EasyRdf\Graph::newAndLoad($row->link);
 
                     $detail = [
                       'no' => $row->no,

@@ -101,7 +101,6 @@ $result = $sparql_jena->query($sparql_query);
 
 <?php 
                 foreach($result as $row){
-                    $text = substr($row->abstract, 0, 300);
                     $music_video = \EasyRdf\Graph::newAndLoad($row->link);
 
                     $detail = [
@@ -113,7 +112,7 @@ $result = $sparql_jena->query($sparql_query);
                       'hometown'=>$row->hometown,
                       'year'=>$row->year,
                       'link'=>$row->link,
-                      'abstract'=>$text,
+                      'abstract'=>$row->abstract,
                     ];
                 ?>   
 
